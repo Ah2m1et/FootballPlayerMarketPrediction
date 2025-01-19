@@ -77,11 +77,16 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 
 | Model               | MSE       | RMSE      | MAE       | R2 Score (%) |  
 |---------------------|-----------|-----------|-----------|--------------|  
-| Linear Regression   | 5.213     | 2.283     | 1.987     | 78.5         |  
-| Decision Tree       | 3.892     | 1.972     | 1.674     | 85.3         |  
-| Random Forest       | 2.931     | 1.711     | 1.432     | 89.7         |  
-| SVR                 | 4.213     | 2.052     | 1.832     | 81.2         |  
+| Linear Regression   | 591.4228 | 24.3192   | 18.0409   | 45.07        |  
+| Decision Tree       | 330.3930 | 18.1767   | 9.4854    | 69.31        |  
+| Random Forest       | 293.9502 | 17.1450   | 10.1378   | 72.70        |  
+| SVR                 | 850.0278 | 29.1552   | 19.9525   | 21.05        |  
 
+### Yorumlar:
+- **Linear Regression**: Basit bir model olup doğruluk oranı %45.07 seviyesinde kalmıştır. Karmaşık ilişkilerde yetersiz kalabilir.  
+- **Decision Tree**: Daha düşük MSE ve yüksek R2 skoru (%69.31) ile Linear Regression'a göre daha iyi bir performans göstermiştir.  
+- **Random Forest**: En düşük MSE (293.9502) ve en yüksek R2 skoru (%72.70) ile en başarılı modeldir.  
+- **SVR**: Bu model en düşük performansı göstermiştir; MSE oldukça yüksek ve doğruluk oranı %21.05 seviyesindedir. Model, bu veri seti için iyi bir seçim olmayabilir.
 ---
 
 ### Analiz ve Çıktı Yorumları
@@ -114,8 +119,7 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 .
 ├── README.md                # Proje dokümantasyonu
 ├── player_table_multiple_leagues.csv  # Toplanan veri
-├── scraping_notebook.ipynb  # Scraping kodları
-├── analysis_notebook.ipynb  # Model eğitimi ve analizi
+├── footballPlayerPrediction.ipynb  # Kod 
 ├── requirements.txt         # Python bağımlılıkları
 └── ...
 ```
