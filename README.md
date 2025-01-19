@@ -29,7 +29,7 @@ Bu proje, futbolcuların piyasa değerlerini tahmin edebilmek ve bu süreçte ve
 
 Futbolcu verileri, Transfermarkt'tan kazıma yöntemiyle çekilmiştir. Verinin toplanma sürecinde kullanılan adımlar şunlardır:
 
-- `scrape_transfermarkt_data()` fonksiyonu ile **Süper Lig, Premier Lig, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie** gibi liglerden veri kazındı.  
+-  **Süper Lig, Premier Lig, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie** gibi liglerden veri kazındı.  
 - Her lig, sayfa sayfa gezilerek futbolcu bilgileri (oyuncu adı, yaş, pozisyon, kulüp, piyasa değeri, maç sayısı gibi) toplandı ve bir CSV dosyasına kaydedildi.  
 - **HTTP isteği sınırlandırmasını aşmak** için her sayfa arasında `time.sleep(3)` ile gecikme eklendi.  
 
