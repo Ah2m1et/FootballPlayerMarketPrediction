@@ -129,7 +129,8 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 .
 ├── README.md                # Proje dokümantasyonu
 ├── player_table_multiple_leagues.csv  # Toplanan veri
-├── footballPlayerPrediction.ipynb  # Kod 
+├── footballPlayerPrediction.ipynb  # Kod
+├── player_table_multiple_leagues.csv # Veri seti
 ├── requirements.txt         # Python bağımlılıkları
 └── ...
 ```
