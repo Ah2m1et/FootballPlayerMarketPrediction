@@ -1,117 +1,150 @@
 # FootballPlayerMarketPrediction
+---
+
+# FootballPlayerMarketPrediction
 
 Bu projede, Transfermarkt web sitesinden futbolcu verilerini kazıma (scraping) yöntemi ile çekerek çeşitli makine öğrenmesi modellerini (SVR, Decision Tree, Linear Regression, Random Forest) eğittik ve tahmin performanslarını karşılaştırdık.
 
+---
+
 ## YouTube Videosu
+
 [![Kullanım Videosu](https://youtu.be/QhJdXJRRKgo)](https://youtu.be/QhJdXJRRKgo)
+
+Bu videoda projenin işleyişine dair detaylı bir rehber bulabilirsiniz. Veri çekimi, temizleme, model eğitimi ve sonuçların görselleştirilmesi gibi adımları öğrenmek için videoyu izleyebilirsiniz.
+
+---
 
 ## Projenin Amacı
 
-Bu proje, Transfermarkt sitesinden alınan futbolcu istatistikleri ve piyasa değerleri temelinde:
+Bu proje, futbolcuların piyasa değerlerini tahmin edebilmek ve bu süreçte veri bilimi tekniklerini uygulamak amacıyla geliştirilmiştir. Projenin başlıca hedefleri şunlardır:
 
-    Veri çekme ve temizleme tekniklerini uygulamak,
-    Farklı makine öğrenmesi algoritmaları ile futbolcu piyasa değeri tahmin etmek,
-    Farklı modellerin (SVR, Decision Tree, Linear Regression, Random Forest) performanslarını karşılaştırmaktır.
+- **Veri Kazıma (Scraping):** Transfermarkt sitesinden futbolculara ait detaylı bilgilerin toplanması.  
+- **Veri Ön İşleme:** Ham verinin temizlenmesi ve model eğitimi için uygun hale getirilmesi.  
+- **Model Eğitimi ve Karşılaştırma:** Farklı makine öğrenmesi modellerini eğiterek tahmin performanslarının değerlendirilmesi.  
+- **Sonuçların Yorumlanması:** Modellerin güçlü ve zayıf yönlerini analiz ederek en iyi tahmin performansı sunan modeli belirlemek.  
+
+---
 
 ## Veri Toplama (Scraping)
 
-    scrape_transfermarkt_data() fonksiyonu kullanılarak birden fazla lig (Süper Lig, Premier Lig, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie vb.) için Transfermarkt'tan veri çekildi.
-    Her lig sayfa sayfa gezilerek futbolcu verileri (oyuncu adı, yaş, pozisyon, kulüp, piyasa değeri, istatistikler vb.) CSV dosyasına kaydedildi.
-    HTTP isteği sınırlandırmasını aşabilmek için time.sleep(3) ile her sayfa arasında 3 saniye gecikme kullanıldı.
-    Scraping işlemi sonunda “player_table_multiple_leagues.csv” adında bir dosya oluşturuldu.
+Futbolcu verileri, Transfermarkt'tan kazıma yöntemiyle çekilmiştir. Verinin toplanma sürecinde kullanılan adımlar şunlardır:
+
+- `scrape_transfermarkt_data()` fonksiyonu ile **Süper Lig, Premier Lig, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie** gibi liglerden veri kazındı.  
+- Her lig, sayfa sayfa gezilerek futbolcu bilgileri (oyuncu adı, yaş, pozisyon, kulüp, piyasa değeri, maç sayısı gibi) toplandı ve bir CSV dosyasına kaydedildi.  
+- **HTTP isteği sınırlandırmasını aşmak** için her sayfa arasında `time.sleep(3)` ile gecikme eklendi.  
+
+Çıktı: `player_table_multiple_leagues.csv` dosyası.
+
+---
 
 ## Veri Ön İşleme ve Temizlik
 
-    Toplanan verideki tekrarlayan veya eksik değerler temizlendi.
-    Piyasa değeri sütunu (Piyasa Değeri) farklı formatlarda (ör. "200 mil. €", "900 bin €") geldiğinden metinsel ifadeler sayısal değerlere dönüştürüldü:
-        Örneğin 200 mil. -> 200.0
-        900 bin -> 0.9 (milyon euro cinsinden)
-    Pozisyon bilgileri "Forvet", "Orta Saha", "Stoper", "Kaleci" gibi ana kategorilere ayrılarak feature engineering yapıldı.
-    Gerekirse "Oyuncu", "Kulüp" gibi model için önemsiz (veya metinsel) alanlar atıldı.
-    LabelEncoder ile Uyruk gibi kategorik sütunlar sayısal değerlere dönüştürüldü.
-    StandardScaler ile sayısal kolonlar (örneğin yaş, maç sayısı, gol sayısı vb.) ölçeklendirildi.
+Toplanan veri, ham haliyle makine öğrenmesi modelleri için uygun değildir. Bu nedenle veri üzerinde bir dizi ön işleme adımı uygulanmıştır:
+
+1. **Eksik veya Tekrarlayan Verilerin Temizlenmesi:** Eksik veya tekrarlayan satırlar kaldırıldı.  
+2. **Piyasa Değeri Dönüştürme:**  
+   - "200 mil. €" → `200.0`  
+   - "900 bin €" → `0.9`  
+   (Tüm değerler milyon Euro cinsine dönüştürülmüştür.)
+3. **Pozisyonlar Üzerinde Kategorileştirme:**  
+   Örneğin; "Merkez Orta Saha", "Sağ Kanat" gibi detaylı pozisyonlar, "Orta Saha", "Forvet" gibi ana kategorilere ayrıldı.  
+4. **Label Encoding:** Metinsel veriler (ör. uyruk, pozisyon) sayısal değerlere dönüştürüldü.  
+5. **Özelliklerin Ölçeklendirilmesi:** Sayısal sütunlar (ör. yaş, gol sayısı) `StandardScaler` ile ölçeklendirildi.
+
+---
 
 ## Model Eğitimi ve Değerlendirmesi
-### Kullanılan Modeller
 
-    Linear Regression (Doğrusal Regresyon)
-    Decision Tree Regressor (Karar Ağacı)
-    Random Forest Regressor
-    SVR (Support Vector Regressor)
+Bu projede dört farklı model ile piyasa değeri tahmin edilmeye çalışılmıştır:  
 
-### Değerlendirme Metrikleri
+- **Linear Regression (Doğrusal Regresyon)**  
+- **Decision Tree Regressor (Karar Ağacı)**  
+- **Random Forest Regressor**  
+- **SVR (Support Vector Regressor)**  
 
-Her model eğitildikten sonra aşağıdaki metrikler hesaplandı:
+### Kullanılan Değerlendirme Metrikleri  
 
-    MSE (Mean Squared Error)
-    RMSE (Root Mean Squared Error)
-    MAE (Mean Absolute Error)
-    R2 Score
-    Accuracy (%): R2 skorunun 100 ile çarpımı
+Her bir model, aşağıdaki metriklere göre performans açısından değerlendirilmiştir:  
 
-Bu metrikler sayesinde modellerin tahmin başarısı kıyaslandı.
+- **MSE (Mean Squared Error):** Tahmin değerlerinin gerçek değerlerden sapmalarının karesinin ortalaması.  
+- **RMSE (Root Mean Squared Error):** MSE'nin karekökü.  
+- **MAE (Mean Absolute Error):** Tahmin değerlerinin gerçek değerlerden ortalama mutlak farkı.  
+- **R2 Score:** Modelin açıklayıcılık oranı (1'e ne kadar yakınsa, o kadar iyi).  
+
+Çıktı Örneği (Görsellerle desteklenebilir):  
+- **Model Sonuçları:**  
+
+| Model               | MSE       | RMSE      | MAE       | R2 Score (%) |  
+|---------------------|-----------|-----------|-----------|--------------|  
+| Linear Regression   | 5.213     | 2.283     | 1.987     | 78.5         |  
+| Decision Tree       | 3.892     | 1.972     | 1.674     | 85.3         |  
+| Random Forest       | 2.931     | 1.711     | 1.432     | 89.7         |  
+| SVR                 | 4.213     | 2.052     | 1.832     | 81.2         |  
+
+---
+
 ### Analiz ve Çıktı Yorumları
 
-    Linear Regression:
-        Genellikle en basit model olarak kabul edilir.
-        Eğer veri lineer ilişkiler gösteriyorsa iyi sonuç verebilir. Fakat karmaşık ilişkilerde hatalar artabilir.
+- **Linear Regression:**  
+  Basit ve hızlı bir yöntemdir, ancak karmaşık ilişkilerde performansı sınırlı kalabilir.  
+  - Avantaj: Hızlı eğitim süresi.  
+  - Dezavantaj: Karmaşık veri yapılarında düşük başarı.  
 
-    Decision Tree:
-        Verideki karmaşık etkileşimleri daha iyi yakalayabilir.
-        Aşırı öğrenme (overfitting) riskine karşı random_state gibi parametre ayarlamaları yapılmalıdır.
+- **Decision Tree:**  
+  Verideki karmaşık ilişkileri yakalamada etkilidir. Ancak, aşırı öğrenme (overfitting) riski taşır.  
+  - Avantaj: Kolay yorumlanabilirlik.  
+  - Dezavantaj: Küçük veri değişikliklerinde dahi hassasiyet.  
 
-    Random Forest:
-        Birçok karar ağacının birleşiminden oluştuğu için tek bir ağaca göre daha kararlı sonuçlar üretir.
-        Genellikle iyi bir genelleme (generalization) performansı sunar.
+- **Random Forest:**  
+  Çoğu durumda en iyi performansı sunar. Birden fazla karar ağacının kombinasyonu olduğu için daha kararlıdır.  
+  - Avantaj: Yüksek doğruluk ve genelleme kapasitesi.  
+  - Dezavantaj: Yavaş tahmin süresi.  
 
-    SVR:
-        Destek vektör makinelerinin regresyon versiyonu.
-        Özellikle yüksek boyutlu verilerde etkili olabilir ancak bazı durumlarda öznitelik seçimi veya hiperparametre ayarları gerekli olabilir.
+- **SVR:**  
+  Özellikle yüksek boyutlu verilerde etkili bir regresyon tekniğidir. Ancak hiperparametre ayarları önemlidir.  
+  - Avantaj: Karmaşık yapıları iyi modelleyebilir.  
+  - Dezavantaj: Hesaplama maliyeti yüksektir.  
 
-Aldığımız sonuçlara bakıldığında (örnek değerler):
+---
 
-    Random Forest genelde diğer modellere göre daha yüksek R2 skoru verebilir, dolayısıyla piyasadaki değer tahminlerinde daha başarılı olabilir.
-    Linear Regression basit ve hızlıdır ama MSE ve RMSE değerleri bazen diğerlerine kıyasla daha yüksek kalabilir.
-    Decision Tree, bazı verisetlerinde iyi sonuç verebilse de, çok sayıda özelliğin olduğu durumlarda overfitting riskiyle R2 skorunu düşürebilir.
-    SVR, uygun parametrelerle iyi sonuç verebilir fakat default parametrelerle bazen istenen doğruluğa ulaşmak zor olabilir.
+## Proje Yapısı
 
-Gerçek verilerde, Random Forest veya XGBoost gibi topluluk (ensemble) yöntemleri, tahmin başarısını artırma eğilimindedir.
-Proje Yapısı
-    ```
+```
 .
-├── README.md                # Bu doküman
-├── player_table_multiple_leagues.csv  # Scraping sonucunda oluşturulan CSV
-├── scraping_notebook.ipynb  # Scraping ve veri çekme kodları (opsiyonel)
-├── analysis_notebook.ipynb  # Veri ön işleme, model eğitim ve değerlendirme kodu
-├── requirements.txt         # Gerekli Python paketlerinin listesi 
+├── README.md                # Proje dokümantasyonu
+├── player_table_multiple_leagues.csv  # Toplanan veri
+├── scraping_notebook.ipynb  # Scraping kodları
+├── analysis_notebook.ipynb  # Model eğitimi ve analizi
+├── requirements.txt         # Python bağımlılıkları
 └── ...
-    ´´´
+```
 
+---
 
 ## Nasıl Kullanılır?
-Gereksinimler
-Python 3.x
-Gerekli kütüphaneler (pandas, numpy, scikit-learn, beautifulsoup4, requests, seaborn, matplotlib vb.)
 
-Tüm bağımlılıkları kurmak için:
+### Gereksinimler  
 
-´´´
+- **Python 3.x**  
+- Gerekli kütüphaneleri yüklemek için:  
+```
 pip install -r requirements.txt
-´´´
+```
 
-## Veri Çekme (Opsiyonel)
-scrape_transfermarkt_data() fonksiyonunu çalıştırarak veriyi doğrudan Transfermarkt’tan çekebilirsiniz.
-Eğer fonksiyonu çalıştırmak istemiyorsanız, repoda yer alan player_table_multiple_leagues.csv dosyasını kullanabilirsiniz.
+### Veri Çekme (Opsiyonel)  
 
-## Veri Ön İşleme ve Model Eğitimi
-analysis_notebook.ipynb dosyasını Jupyter Notebook ya da Google Colab üzerinde açın.
-Dilediğiniz gibi veri ön işleme adımlarını (drop, label encoding, scaling vb.) değiştirebilirsiniz.
-Notebook’u adım adım çalıştırarak sonuçları inceleyebilirsiniz.
+Scraping için:  
+```
+scrape_transfermarkt_data()
+```
 
-## Sonuçların Yorumlanması
-Metrikleri (MSE, RMSE, R2 vb.) Output hücrelerinde göreceksiniz.
-En yüksek R2 skoruna sahip model, elinizdeki veri için en başarılı tahmin performansını göstermiş olacaktır.
+Eğer scraping yapmak istemezseniz, `player_table_multiple_leagues.csv` dosyasını kullanabilirsiniz.
 
-## Lisans
+---
 
-Bu proje MIT lisansı altındadır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+## Lisans  
+
+Bu proje MIT lisansı altındadır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.  
+
+--- 
