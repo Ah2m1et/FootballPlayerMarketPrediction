@@ -73,7 +73,8 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 - **R2 Score:** Modelin açıklayıcılık oranı (1'e ne kadar yakınsa, o kadar iyi).  
 
 Çıktı:  
-- **Model Sonuçları:**  
+- **Model Sonuçları:**
+
 | **Model**             | **MSE**  | **RMSE** | **MAE** | **R2 Score (%)** |
 |-----------------------|----------|----------|---------|------------------|
 | **Linear Regression** | 269.44   | 16.41    | 10.66   | 34.56           |
