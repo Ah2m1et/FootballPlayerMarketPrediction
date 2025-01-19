@@ -50,7 +50,7 @@ Toplanan veri, ham haliyle makine öğrenmesi modelleri için uygun değildir. B
    Örneğin; "Merkez Orta Saha", "Sağ Kanat" gibi detaylı pozisyonlar, "Orta Saha", "Forvet" gibi ana kategorilere ayrıldı.  
 4. **Label Encoding:** Metinsel veriler (ör. uyruk, pozisyon) sayısal değerlere dönüştürüldü.  
 5. **Özelliklerin Ölçeklendirilmesi:** Sayısal sütunlar (ör. yaş, gol sayısı) `StandardScaler` ile ölçeklendirildi.
-![resim](https://github.com/user-attachments/assets/6b210e36-ad73-4582-8523-b9954d73457a)
+![resim](https://github.com/user-attachments/assets/59ad4a96-d3e6-453a-b25a-fa68ae013b77)
 ![resim](https://github.com/user-attachments/assets/930a6717-145c-4537-bc6a-613901861d18)
 
 
