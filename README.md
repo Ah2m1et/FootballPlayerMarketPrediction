@@ -72,46 +72,55 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 - **MAE (Mean Absolute Error):** Tahmin değerlerinin gerçek değerlerden ortalama mutlak farkı.  
 - **R2 Score:** Modelin açıklayıcılık oranı (1'e ne kadar yakınsa, o kadar iyi).  
 
-Çıktı Örneği (Görsellerle desteklenebilir):  
+Çıktı:  
 - **Model Sonuçları:**  
+| **Model**             | **MSE**  | **RMSE** | **MAE** | **R2 Score (%)** |
+|-----------------------|----------|----------|---------|------------------|
+| **Linear Regression** | 269.44   | 16.41    | 10.66   | 34.56           |
+| **Decision Tree**     | 178.84   | 13.37    | 4.41    | 56.56           |
+| **Random Forest**     | 91.58    | 9.57     | 3.96    | 77.76           |
+| **XGBoost**           | 80.86    | 8.99     | 4.12    | 80.36           |
+| **SVR**               | 400.14   | 20.00    | 9.48    | 2.81            |
 
-| Model               | MSE       | RMSE      | MAE       | R2 Score (%) |  
-|---------------------|-----------|-----------|-----------|--------------|  
-| Linear Regression   | 591.4228 | 24.3192   | 18.0409   | 45.07        |  
-| Decision Tree       | 330.3930 | 18.1767   | 9.4854    | 69.31        |  
-| Random Forest       | 293.9502 | 17.1450   | 10.1378   | 72.70        |  
-| SVR                 | 850.0278 | 29.1552   | 19.9525   | 21.05        |  
+---
 
+### Analiz ve Çıktı Yorumları:
+
+1. **Linear Regression**: 
+   - Basit bir model olup doğruluk oranı %34.56 seviyesindedir.
+   - Karmaşık ilişkileri modellemede yetersiz kalmıştır.
+   - Daha düşük performans sergilemiştir.
+
+2. **Decision Tree**: 
+   - Daha düşük MSE ve RMSE değerleriyle Linear Regression'a kıyasla daha iyi performans göstermiştir.
+   - Doğruluk oranı %56.56 ile orta seviyede bir başarı yakalamıştır.
+
+3. **Random Forest**: 
+   - En düşük MSE (91.58) ve en yüksek R2 skoru (%77.76) ile oldukça başarılı bir modeldir.
+   - Overfitting'in önüne geçmesi ve istikrarlı sonuçlar sunmasıyla öne çıkar.
+
+4. **XGBoost**: 
+   - En iyi performansı gösteren modeldir.
+   - MSE (80.86) ve RMSE (8.99) değerleri oldukça düşük olup, doğruluk oranı %80.36 seviyesindedir.
+   - Random Forest'a kıyasla daha iyi sonuçlar vermiştir.
+
+5. **SVR (Support Vector Regressor)**:
+   - Bu model, en düşük performansı göstermiştir.
+   - MSE oldukça yüksek (400.14) ve doğruluk oranı sadece %2.81 seviyesindedir.
+   - Model, bu veri seti için uygun bir seçim değildir.
+
+---
+
+### Özet:
+- **En Başarılı Model**: XGBoost (%80.36 doğruluk oranı ile).
+- **Alternatif Model**: Random Forest (%77.76 doğruluk oranı ile, XGBoost'a çok yakın performans göstermiştir).
+- **Zayıf Performanslı Modeller**: SVR ve Linear Regression, diğer modellere kıyasla düşük başarı göstermiştir.
 ### Yorumlar:
 - **Linear Regression**: Basit bir model olup doğruluk oranı %45.07 seviyesinde kalmıştır. Karmaşık ilişkilerde yetersiz kalabilir.  
 - **Decision Tree**: Daha düşük MSE ve yüksek R2 skoru (%69.31) ile Linear Regression'a göre daha iyi bir performans göstermiştir.  
 - **Random Forest**: En düşük MSE (293.9502) ve en yüksek R2 skoru (%72.70) ile en başarılı modeldir.  
 - **SVR**: Bu model en düşük performansı göstermiştir; MSE oldukça yüksek ve doğruluk oranı %21.05 seviyesindedir. Model, bu veri seti için iyi bir seçim olmayabilir.
----
 
-### Analiz ve Çıktı Yorumları
-
-- **Linear Regression:**  
-  Basit ve hızlı bir yöntemdir, ancak karmaşık ilişkilerde performansı sınırlı kalabilir.  
-  - Avantaj: Hızlı eğitim süresi.  
-  - Dezavantaj: Karmaşık veri yapılarında düşük başarı.  
-
-- **Decision Tree:**  
-  Verideki karmaşık ilişkileri yakalamada etkilidir. Ancak, aşırı öğrenme (overfitting) riski taşır.  
-  - Avantaj: Kolay yorumlanabilirlik.  
-  - Dezavantaj: Küçük veri değişikliklerinde dahi hassasiyet.  
-
-- **Random Forest:**  
-  Çoğu durumda en iyi performansı sunar. Birden fazla karar ağacının kombinasyonu olduğu için daha kararlıdır.  
-  - Avantaj: Yüksek doğruluk ve genelleme kapasitesi.  
-  - Dezavantaj: Yavaş tahmin süresi.  
-
-- **SVR:**  
-  Özellikle yüksek boyutlu verilerde etkili bir regresyon tekniğidir. Ancak hiperparametre ayarları önemlidir.  
-  - Avantaj: Karmaşık yapıları iyi modelleyebilir.  
-  - Dezavantaj: Hesaplama maliyeti yüksektir.  
-
----
 
 ## Proje Yapısı
 
