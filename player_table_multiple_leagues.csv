@@ -1,0 +1,701 @@
+Sıra No,Oyuncu,Pozisyon,Yaş,Uyruk,Kulüp,Piyasa Değeri,Maç,Gol,Kendi Kalesine Gol,Asist,Sarı Kart,İkinci Sarı Kart,Kırmızı Kart,Oyuna Girdiği
+1,Erling Haaland,Santrafor,24,Norveç,Manchester City,200.00 mil. €,35,29,0,2,2,0,0,0
+2,Vinicius Junior,Sol Kanat,24,Brezilya,Real Madrid,200.00 mil. €,25,14,0,10,9,0,1,3
+3,Lamine Yamal,Sağ Kanat,17,İspanya,FC Barcelona,180.00 mil. €,28,9,0,14,2,0,0,2
+4,Jude Bellingham,On Numara,21,İngiltere,Real Madrid,180.00 mil. €,30,10,0,10,7,0,0,1
+5,Kylian Mbappé,Santrafor,26,Fransa,Real Madrid,160.00 mil. €,31,17,0,3,2,0,0,3
+6,Bukayo Saka,Sağ Kanat,23,İngiltere,Arsenal,150.00 mil. €,27,9,0,13,4,0,0,2
+7,Florian Wirtz,On Numara,21,Almanya,Bayer 04 Leverkusen,140.00 mil. €,34,17,0,12,6,0,0,7
+8,Jamal Musiala,On Numara,21,Almanya,FC Bayern Münih ,140.00 mil. €,28,16,0,9,3,0,0,6
+9,Phil Foden,Sağ Kanat,24,İngiltere,Manchester City,140.00 mil. €,27,9,0,4,2,0,0,7
+10,Cole Palmer,On Numara,22,İngiltere,Chelsea FC,130.00 mil. €,25,14,0,6,3,0,0,2
+11,Federico Valverde,Merkez Orta Saha,26,Uruguay,Real Madrid,130.00 mil. €,31,8,0,3,4,0,0,1
+12,Rodri,Ön Libero,28,İspanya,Manchester City,130.00 mil. €,4,0,0,0,0,0,0,1
+13,Declan Rice,Merkez Orta Saha,26,İngiltere,Arsenal,110.00 mil. €,32,4,0,6,4,1,0,3
+14,Martin Ødegaard,On Numara,26,Norveç,Arsenal,110.00 mil. €,23,1,0,6,1,0,0,3
+15,Pedri,Merkez Orta Saha,22,İspanya,FC Barcelona,100.00 mil. €,36,4,0,3,2,0,0,5
+16,Rodrygo,Sağ Kanat,24,Brezilya,Real Madrid,100.00 mil. €,25,8,0,5,0,0,0,7
+17,Lautaro Martínez,Santrafor,27,Arjantin,Inter Milan,100.00 mil. €,26,9,0,5,1,0,0,5
+18,Harry Kane,Santrafor,31,İngiltere,FC Bayern Münih ,90.00 mil. €,28,25,0,10,3,0,0,2
+19,Khvicha Kvaratskhelia,Sol Kanat,23,Gürcistan,Paris Saint-Germain,85.00 mil. €,25,6,0,4,3,0,0,3
+20,Luis Díaz,Sol Kanat,28,Kolombiya,Liverpool FC,85.00 mil. €,28,12,0,3,3,0,0,8
+21,Moisés Caicedo,Ön Libero,23,Ekvador,Chelsea FC,80.00 mil. €,23,1,0,3,4,0,0,1
+22,Gavi,Merkez Orta Saha,20,İspanya,FC Barcelona,80.00 mil. €,18,2,0,3,2,0,0,11
+23,Eduardo Camavinga,Merkez Orta Saha,22,Fransa,Real Madrid,80.00 mil. €,19,2,0,2,6,0,0,6
+24,Julián Alvarez,Santrafor,24,Arjantin,Atlético Madrid,80.00 mil. €,29,14,0,2,3,0,0,8
+25,Xavi Simons,On Numara,21,Hollanda,RB Leipzig,80.00 mil. €,18,6,0,3,3,0,0,0
+26,Alexis Mac Allister,Merkez Orta Saha,26,Arjantin,Liverpool FC,80.00 mil. €,29,3,0,3,8,0,0,4
+27,Bruno Guimarães,Ön Libero,27,Brezilya,Newcastle United,80.00 mil. €,27,2,0,8,5,0,0,4
+28,William Saliba,Stoper,23,Fransa,Arsenal,80.00 mil. €,35,2,0,0,3,0,1,1
+29,Aurélien Tchouaméni,Ön Libero,24,Fransa,Real Madrid,80.00 mil. €,26,0,0,1,3,1,0,1
+30,Raphinha,Sol Kanat,28,Brezilya,FC Barcelona,80.00 mil. €,29,20,0,11,4,0,0,1
+31,Nicolò Barella,Merkez Orta Saha,27,İtalya,Inter Milan,80.00 mil. €,25,3,0,4,3,0,0,2
+32,Enzo Fernández,Merkez Orta Saha,24,Arjantin,Chelsea FC,75.00 mil. €,25,3,0,8,3,0,0,5
+33,Josko Gvardiol,Stoper,22,Hırvatistan,Manchester City,75.00 mil. €,36,5,0,0,2,0,0,4
+34,Dominik Szoboszlai,Merkez Orta Saha,24,Macaristan,Liverpool FC,75.00 mil. €,33,6,0,5,6,0,0,7
+35,Gabriel Magalhães,Stoper,27,Brezilya,Arsenal,75.00 mil. €,29,5,0,1,5,0,0,2
+36,Victor Osimhen,Santrafor,26,Nijerya,Galatasaray,75.00 mil. €,22,16,0,6,3,0,0,5
+37,Rafael Leão,Sol Kanat,25,Portekiz,AC Milan,75.00 mil. €,32,8,0,9,3,0,0,6
+38,Alexander Isak,Santrafor,25,İsveç,Newcastle United,75.00 mil. €,28,21,0,6,1,0,0,0
+39,Viktor Gyökeres,Santrafor,26,İsveç,Sporting Lizbon,75.00 mil. €,37,42,0,10,3,0,0,4
+40,Marcus Thuram,Santrafor,27,Fransa,Inter Milan,75.00 mil. €,30,13,0,6,1,0,0,7
+41,Alessandro Bastoni,Stoper,25,İtalya,Inter Milan,75.00 mil. €,32,1,0,4,5,0,0,1
+42,Trent Alexander-Arnold,Sağ Bek,26,İngiltere,Liverpool FC,75.00 mil. €,32,3,0,7,4,0,0,2
+43,Kai Havertz,Santrafor,25,Almanya,Arsenal,75.00 mil. €,33,15,0,5,5,0,0,4
+44,Rúben Dias,Stoper,27,Portekiz,Manchester City,75.00 mil. €,24,0,1,0,5,0,0,3
+45,Pau Cubarsí,Stoper,17,İspanya,FC Barcelona,70.00 mil. €,32,0,0,1,4,0,0,4
+46,Nico Williams,Sol Kanat,22,İspanya,Athletic Bilbao,70.00 mil. €,31,3,0,5,2,0,0,7
+47,Bradley Barcola,Sol Kanat,22,Fransa,Paris Saint-Germain,65.00 mil. €,33,14,0,4,1,0,0,7
+48,Michael Olise,Sağ Kanat,23,Fransa,FC Bayern Münih ,65.00 mil. €,30,10,0,11,2,0,0,7
+49,Darwin Núñez,Santrafor,25,Uruguay,Liverpool FC,65.00 mil. €,27,6,0,4,7,0,0,13
+50,Cristian Romero,Stoper,26,Arjantin,Tottenham Hotspur,65.00 mil. €,14,1,0,0,1,0,0,0
+51,Warren Zaïre-Emery,Merkez Orta Saha,18,Fransa,Paris Saint-Germain,60.00 mil. €,29,3,0,1,2,0,0,7
+52,João Neves,Ön Libero,20,Portekiz,Paris Saint-Germain,60.00 mil. €,29,2,0,7,2,0,0,6
+53,Rasmus Højlund,Santrafor,21,Danimarka,Manchester United,60.00 mil. €,30,7,0,1,1,0,0,11
+54,Bremer,Stoper,27,Brezilya,Juventus,60.00 mil. €,8,0,0,0,1,0,0,0
+55,Anthony Gordon,Sol Kanat,23,İngiltere,Newcastle United,60.00 mil. €,32,9,0,5,3,0,0,4
+56,Jérémy Doku,Sol Kanat,22,Belçika,Manchester City,60.00 mil. €,26,6,0,8,0,0,0,8
+57,Omar Marmoush,Santrafor,25,Mısır,Eintracht Frankfurt,60.00 mil. €,30,21,0,14,3,0,0,2
+58,Cody Gakpo,Sol Kanat,25,Hollanda,Liverpool FC,60.00 mil. €,37,14,0,5,4,0,0,12
+59,Dejan Kulusevski,On Numara,24,İsveç,Tottenham Hotspur,60.00 mil. €,39,11,0,10,5,0,0,9
+60,Martín Zubimendi,Ön Libero,25,İspanya,Real Sociedad,60.00 mil. €,28,2,0,2,5,0,0,2
+61,Jules Koundé,Sağ Bek,26,Fransa,FC Barcelona,60.00 mil. €,36,3,0,7,3,0,0,3
+62,Achraf Hakimi,Sağ Bek,26,Fas,Paris Saint-Germain,60.00 mil. €,28,4,0,8,4,0,0,0
+63,Loïs Openda,Santrafor,24,Belçika,RB Leipzig,60.00 mil. €,31,11,0,11,5,1,0,1
+64,Dušan Vlahović,Santrafor,24,Sırbistan,Juventus,60.00 mil. €,26,12,0,3,3,0,0,1
+65,James Maddison,On Numara,28,İngiltere,Tottenham Hotspur,60.00 mil. €,30,8,0,5,6,0,0,10
+66,Dani Olmo,On Numara,26,İspanya,FC Barcelona,60.00 mil. €,20,6,0,4,1,0,0,8
+67,Bernardo Silva,On Numara,30,Portekiz,Manchester City,60.00 mil. €,33,4,0,4,7,0,0,5
+68,Federico Dimarco,Sol Bek,27,İtalya,Inter Milan,60.00 mil. €,30,4,0,11,3,0,0,4
+69,Leny Yoro,Stoper,19,Fransa,Manchester United,55.00 mil. €,11,0,0,0,2,0,0,6
+70,Kobbie Mainoo,Merkez Orta Saha,19,İngiltere,Manchester United,55.00 mil. €,21,0,0,0,7,0,0,4
+71,Nicolas Jackson,Santrafor,23,Senegal,Chelsea FC,55.00 mil. €,26,10,0,4,7,0,0,2
+72,Savinho,Sağ Kanat,20,Brezilya,Manchester City,55.00 mil. €,27,1,0,8,3,0,0,8
+73,Gabriel Martinelli,Sol Kanat,23,Brezilya,Arsenal,55.00 mil. €,30,7,0,2,3,0,0,7
+74,Nuno Mendes,Sol Bek,22,Portekiz,Paris Saint-Germain,55.00 mil. €,26,2,0,6,4,0,0,2
+75,Levi Colwill,Stoper,21,İngiltere,Chelsea FC,55.00 mil. €,23,0,0,1,6,0,0,1
+76,Micky van de Ven,Stoper,23,Hollanda,Tottenham Hotspur,55.00 mil. €,13,0,0,2,4,0,0,0
+77,Vitinha,Merkez Orta Saha,24,Portekiz,Paris Saint-Germain,55.00 mil. €,28,3,0,3,1,0,0,6
+78,Pedro Neto,Sağ Kanat,24,Portekiz,Chelsea FC,55.00 mil. €,28,4,0,5,7,0,0,8
+79,Amadou Onana,Ön Libero,23,Belçika,Aston Villa,55.00 mil. €,24,4,0,0,5,0,0,3
+80,Ronald Araujo,Stoper,25,Uruguay,FC Barcelona,55.00 mil. €,4,0,0,1,1,0,0,1
+81,Eberechi Eze,On Numara,26,İngiltere,Crystal Palace,55.00 mil. €,25,6,0,6,1,0,0,2
+82,Ryan Gravenberch,Ön Libero,22,Hollanda,Liverpool FC,55.00 mil. €,34,0,0,3,5,0,0,1
+83,Ademola Lookman,Forvet Arkası,27,Nijerya,Atalanta Bergamo,55.00 mil. €,29,15,0,6,3,0,0,3
+84,Ben White,Sağ Bek,27,İngiltere,Arsenal,55.00 mil. €,12,0,0,1,3,0,0,2
+85,Ollie Watkins,Santrafor,29,İngiltere,Aston Villa,55.00 mil. €,32,11,0,9,0,0,0,7
+86,Ousmane Dembélé,Sağ Kanat,27,Fransa,Paris Saint-Germain,55.00 mil. €,26,12,0,7,1,1,0,6
+87,Marcus Rashford,Sol Kanat,27,İngiltere,Manchester United,55.00 mil. €,24,7,0,3,4,0,0,5
+88,Bruno Fernandes,On Numara,30,Portekiz,Manchester United,55.00 mil. €,36,10,0,13,5,2,1,1
+89,Mohamed Salah,Sağ Kanat,32,Mısır,Liverpool FC,55.00 mil. €,33,23,0,17,1,0,0,2
+90,Estêvão,Sağ Kanat,17,Brezilya,SE Palmeiras,50.00 mil. €,1,0,0,0,0,0,0,0
+91,Murillo,Stoper,22,Brezilya,Nottingham Forest,50.00 mil. €,21,1,0,0,4,0,0,0
+92,Samu Aghehowa,Santrafor,20,İspanya,FC Porto,50.00 mil. €,24,18,0,2,4,0,0,5
+93,Alejandro Garnacho,Sol Kanat,20,Arjantin,Manchester United,50.00 mil. €,32,8,0,5,1,0,0,15
+94,Aleksandar Pavlovic,Ön Libero,20,Almanya,FC Bayern Münih ,50.00 mil. €,17,2,0,1,1,0,0,4
+95,Pablo Barrios,Merkez Orta Saha,21,İspanya,Atlético Madrid,50.00 mil. €,21,0,0,2,3,0,0,3
+96,Jamie Gittens,Sol Kanat,20,İngiltere,Borussia Dortmund,50.00 mil. €,27,11,0,5,4,0,0,6
+97,Fermín López,Merkez Orta Saha,21,İspanya,FC Barcelona,50.00 mil. €,19,1,0,3,2,0,0,12
+98,Alejandro Balde,Sol Bek,21,İspanya,FC Barcelona,50.00 mil. €,25,1,0,5,2,0,0,3
+99,Benjamin Sesko,Santrafor,21,Slovenya,RB Leipzig,50.00 mil. €,31,18,0,3,1,1,0,2
+100,João Pedro,Santrafor,23,Brezilya,Brighton & Hove Albion,50.00 mil. €,16,5,0,5,2,0,0,2
+101,Castello Lukeba,Stoper,22,Fransa,RB Leipzig,50.00 mil. €,15,0,1,0,5,0,0,2
+102,Éderson,Merkez Orta Saha,25,Brezilya,Atalanta Bergamo,50.00 mil. €,28,2,0,2,7,0,0,2
+103,Oihan Sancet,On Numara,24,İspanya,Athletic Bilbao,50.00 mil. €,20,8,0,2,3,0,0,4
+104,Gonçalo Ramos,Santrafor,23,Portekiz,Paris Saint-Germain,50.00 mil. €,12,5,0,2,0,0,0,6
+105,Álex Baena,Sol Kanat,23,İspanya,Villarreal CF,50.00 mil. €,21,5,0,5,6,0,0,3
+106,Mohammed Kudus,Sağ Kanat,24,Gana,West Ham United,50.00 mil. €,26,3,0,3,2,0,1,2
+107,Matheus Cunha,Santrafor,25,Brezilya,Wolverhampton Wanderers,50.00 mil. €,21,10,0,4,2,0,0,3
+108,Jeremie Frimpong,Orta Saha Sağ,24,Hollanda,Bayer 04 Leverkusen,50.00 mil. €,30,2,0,9,6,0,0,9
+109,Lisandro Martínez,Stoper,27,Arjantin,Manchester United,50.00 mil. €,28,1,0,1,9,0,0,1
+110,Manuel Ugarte,Ön Libero,23,Uruguay,Manchester United,50.00 mil. €,25,0,1,1,7,0,0,6
+111,Brennan Johnson,Sağ Kanat,23,Galler,Tottenham Hotspur,50.00 mil. €,37,14,0,4,7,0,0,11
+112,Tijjani Reijnders,Merkez Orta Saha,26,Hollanda,AC Milan,50.00 mil. €,33,11,0,4,3,0,1,1
+113,Alphonso Davies,Sol Bek,24,Kanada,FC Bayern Münih ,50.00 mil. €,27,1,0,3,0,0,0,2
+114,Bryan Mbeumo,Sağ Kanat,25,Kamerun,Brentford FC,50.00 mil. €,30,14,0,4,2,0,0,3
+115,Teun Koopmeiners,On Numara,26,Hollanda,Juventus,50.00 mil. €,26,3,0,3,3,0,0,3
+116,Ibrahima Konaté,Stoper,25,Fransa,Liverpool FC,50.00 mil. €,27,2,0,1,8,0,0,3
+117,Dayot Upamecano,Stoper,26,Fransa,FC Bayern Münih ,50.00 mil. €,26,2,0,0,7,0,0,0
+118,Christopher Nkunku,Santrafor,27,Fransa,Chelsea FC,50.00 mil. €,32,14,0,4,1,0,0,17
+119,Diogo Jota,Santrafor,28,Portekiz,Liverpool FC,50.00 mil. €,23,8,0,2,2,0,0,10
+120,Theo Hernández,Sol Bek,27,Fransa,AC Milan,50.00 mil. €,28,4,0,4,3,0,1,3
+121,Christian Pulisic,Sağ Kanat,26,Amerika Birleşik Devletleri,AC Milan,50.00 mil. €,29,13,0,9,1,0,0,4
+122,Joshua Kimmich,Ön Libero,29,Almanya,FC Bayern Münih ,50.00 mil. €,33,2,0,8,6,0,0,0
+123,Arda Güler,Sağ Kanat,19,Türkiye,Real Madrid,45.00 mil. €,29,4,0,6,2,0,0,15
+124,Kenan Yıldız,Sol Kanat,19,Türkiye,Juventus,45.00 mil. €,34,7,0,7,2,0,0,7
+125,Victor Boniface,Santrafor,24,Nijerya,Bayer 04 Leverkusen,45.00 mil. €,20,8,0,1,2,0,0,4
+126,Giorgio Scalvini,Stoper,21,İtalya,Atalanta Bergamo,45.00 mil. €,6,0,0,0,3,0,0,2
+127,Pape Matar Sarr,Merkez Orta Saha,22,Senegal,Tottenham Hotspur,45.00 mil. €,37,4,0,2,6,0,0,13
+128,Destiny Udogie,Sol Bek,22,İtalya,Tottenham Hotspur,45.00 mil. €,29,0,0,3,2,0,0,8
+129,Pedro Porro,Sağ Bek,25,İspanya,Tottenham Hotspur,45.00 mil. €,32,2,0,6,3,0,0,3
+130,Gonçalo Inácio,Stoper,23,Portekiz,Sporting Lizbon,45.00 mil. €,22,3,0,3,4,0,0,3
+131,Jonathan David,Santrafor,25,Kanada,LOSC Lille,45.00 mil. €,35,20,0,9,5,0,0,5
+132,Kaoru Mitoma,Sol Kanat,27,Japonya,Brighton & Hove Albion,45.00 mil. €,24,5,0,3,0,0,0,4
+133,Min-jae Kim,Stoper,28,Güney Kore,FC Bayern Münih ,45.00 mil. €,26,2,0,0,2,0,0,0
+134,Riccardo Calafiori,Sol Bek,22,İtalya,Arsenal,45.00 mil. €,19,1,0,1,5,0,0,4
+135,Morten Hjulmand,Ön Libero,25,Danimarka,Sporting Lizbon,45.00 mil. €,34,3,0,1,9,0,0,2
+136,Douglas Luiz,Merkez Orta Saha,26,Brezilya,Juventus,45.00 mil. €,16,0,0,0,2,0,0,13
+137,Curtis Jones,Merkez Orta Saha,23,İngiltere,Liverpool FC,45.00 mil. €,28,4,0,5,1,0,0,10
+138,Jurrien Timber,Sağ Bek,23,Hollanda,Arsenal,45.00 mil. €,31,1,0,2,6,0,0,4
+139,Pau Torres,Stoper,28,İspanya,Aston Villa,45.00 mil. €,24,0,0,1,2,0,0,1
+140,Marc Guéhi,Stoper,24,İngiltere,Crystal Palace,45.00 mil. €,31,3,2,2,6,0,0,1
+141,Alessandro Buongiorno,Stoper,25,İtalya,SSC Napoli,45.00 mil. €,21,1,0,0,1,0,0,2
+142,Gabriel Jesus,Santrafor,27,Brezilya,Arsenal,45.00 mil. €,27,7,0,2,4,0,0,14
+143,Sven Botman,Stoper,25,Hollanda,Newcastle United,45.00 mil. €,5,0,0,0,1,0,0,0
+144,Mikel Merino,Merkez Orta Saha,28,İspanya,Arsenal,45.00 mil. €,26,2,0,1,3,0,0,11
+145,Frenkie de Jong,Merkez Orta Saha,27,Hollanda,FC Barcelona,45.00 mil. €,18,1,0,1,1,0,0,13
+146,Matthijs de Ligt,Stoper,25,Hollanda,Manchester United,45.00 mil. €,31,1,0,0,5,0,0,5
+147,Jarrod Bowen,Sağ Kanat,28,İngiltere,West Ham United,45.00 mil. €,25,7,0,4,0,0,0,4
+148,Dominic Solanke,Santrafor,27,İngiltere,Tottenham Hotspur,45.00 mil. €,31,11,1,6,0,0,0,7
+149,Jack Grealish,Sol Kanat,29,İngiltere,Manchester City,45.00 mil. €,24,3,0,4,4,0,0,10
+150,Leroy Sané,Sağ Kanat,29,Almanya,FC Bayern Münih ,45.00 mil. €,24,8,0,2,2,0,0,11
+151,Jarrad Branthwaite,Stoper,22,İngiltere,Everton FC,42.00 mil. €,16,0,0,0,3,0,0,2
+152,Enzo Millot,On Numara,22,Fransa,VfB Stuttgart,42.00 mil. €,27,8,0,5,7,0,0,5
+153,Joshua Zirkzee,Santrafor,23,Hollanda,Manchester United,42.00 mil. €,35,5,0,3,1,0,0,20
+154,Ousmane Diomande,Stoper,21,Fildişi Sahili,Sporting Lizbon,40.00 mil. €,27,0,0,0,3,0,0,4
+155,Endrick,Santrafor,18,Brezilya,Real Madrid,40.00 mil. €,18,4,0,1,4,0,0,16
+156,Désiré Doué,Sol Kanat,19,Fransa,Paris Saint-Germain,40.00 mil. €,25,3,0,4,0,0,0,14
+157,Maghnes Akliouche,Sağ Kanat,22,Fransa,AS Monaco,40.00 mil. €,23,4,0,5,0,0,0,4
+158,João Gomes,Merkez Orta Saha,23,Brezilya,Wolverhampton Wanderers,40.00 mil. €,22,2,0,2,6,0,0,0
+159,Hugo Ekitiké,Santrafor,22,Fransa,Eintracht Frankfurt,40.00 mil. €,26,13,0,6,2,0,0,4
+160,Rico Lewis,Sağ Bek,20,İngiltere,Manchester City,40.00 mil. €,32,1,0,4,3,1,0,4
+161,Willian Pacho,Stoper,23,Ekvador,Paris Saint-Germain,40.00 mil. €,25,0,0,1,2,0,0,3
+162,Piero Hincapié,Stoper,23,Ekvador,Bayer 04 Leverkusen,40.00 mil. €,26,1,0,1,3,0,0,3
+163,Jhon Durán,Santrafor,21,Kolombiya,Aston Villa,40.00 mil. €,27,12,0,0,5,0,1,20
+164,Evan Ferguson,Santrafor,20,İrlanda,Brighton & Hove Albion,40.00 mil. €,20,2,0,0,1,0,0,12
+165,Roméo Lavia,Ön Libero,21,Belçika,Chelsea FC,40.00 mil. €,12,0,0,1,4,0,0,3
+166,Matheus Nunes,Merkez Orta Saha,26,Portekiz,Manchester City,40.00 mil. €,23,3,0,7,4,0,0,8
+167,Johan Bakayoko,Sağ Kanat,21,Belçika,PSV Eindhoven,40.00 mil. €,28,7,0,3,3,0,0,9
+168,Edmond Tapsoba,Stoper,25,Burkina Faso,Bayer 04 Leverkusen,40.00 mil. €,33,0,0,2,4,0,0,1
+169,Dani Vivian,Stoper,25,İspanya,Athletic Bilbao,40.00 mil. €,30,3,0,0,3,0,0,5
+170,Noni Madueke,Sağ Kanat,22,İngiltere,Chelsea FC,40.00 mil. €,28,6,0,6,4,0,0,9
+171,Morgan Rogers,On Numara,22,İngiltere,Aston Villa,40.00 mil. €,31,9,0,5,7,0,0,2
+172,Giorgi Mamardashvili,Kaleci,24,Gürcistan,Valencia CF,40.00 mil. €,21,0,0,0,1,0,0,0
+173,Conor Gallagher,Merkez Orta Saha,24,İngiltere,Atlético Madrid,40.00 mil. €,27,3,0,2,2,0,0,8
+174,Andrea Cambiaso,Sol Bek,24,İtalya,Juventus,40.00 mil. €,32,4,0,2,4,0,0,7
+175,Lucas Paquetá,On Numara,27,Brezilya,West Ham United,40.00 mil. €,24,5,0,0,7,0,0,5
+176,Morgan Gibbs-White,On Numara,24,İngiltere,Nottingham Forest,40.00 mil. €,20,4,0,5,5,1,0,2
+177,Takefusa Kubo,Sağ Kanat,23,Japonya,Real Sociedad,40.00 mil. €,26,5,0,3,4,0,0,7
+178,Exequiel Palacios,Merkez Orta Saha,26,Arjantin,Bayer 04 Leverkusen,40.00 mil. €,20,1,0,4,0,0,0,9
+179,Éder Militão,Stoper,27,Brezilya,Real Madrid,40.00 mil. €,17,1,0,1,4,0,0,2
+180,Nico Schlotterbeck,Stoper,25,Almanya,Borussia Dortmund,40.00 mil. €,28,0,0,5,8,1,0,0
+181,Diogo Costa,Kaleci,25,Portekiz,FC Porto,40.00 mil. €,29,0,0,0,0,0,0,0
+182,Diogo Dalot,Sağ Bek,25,Portekiz,Manchester United,40.00 mil. €,37,1,1,2,4,1,0,3
+183,Benjamin Pavard,Stoper,28,Fransa,Inter Milan,40.00 mil. €,18,0,0,1,4,0,0,6
+184,Robin Le Normand,Stoper,28,İspanya,Atlético Madrid,40.00 mil. €,16,0,0,0,7,0,1,2
+185,Joelinton,Merkez Orta Saha,28,Brezilya,Newcastle United,40.00 mil. €,27,4,0,1,9,0,0,0
+186,Scott McTominay,Merkez Orta Saha,28,İskoçya,SSC Napoli,40.00 mil. €,29,8,0,3,3,0,0,6
+187,Manuel Akanji,Stoper,29,İsviçre,Manchester City,40.00 mil. €,29,0,0,1,4,0,0,1
+188,Serhou Guirassy,Santrafor,28,Gine,Borussia Dortmund,40.00 mil. €,26,19,0,4,2,0,0,2
+189,David Raya,Kaleci,29,İspanya,Arsenal,40.00 mil. €,36,0,0,0,4,0,0,0
+190,Gregor Kobel,Kaleci,27,İsviçre,Borussia Dortmund,40.00 mil. €,28,0,0,0,0,0,0,0
+191,João Palhinha,Ön Libero,29,Portekiz,FC Bayern Münih ,40.00 mil. €,15,0,0,0,2,0,0,7
+192,Alejandro Grimaldo,Sol Bek,29,İspanya,Bayer 04 Leverkusen,40.00 mil. €,32,4,0,8,3,0,0,4
+193,Marquinhos,Stoper,30,Brezilya,Paris Saint-Germain,40.00 mil. €,21,0,0,0,5,0,0,2
+194,Hakan Çalhanoğlu,Ön Libero,30,Türkiye,Inter Milan,40.00 mil. €,26,7,0,2,3,0,0,3
+195,Ilya Zabarnyi,Stoper,22,Ukrayna,AFC Bournemouth,38.00 mil. €,29,0,0,0,2,0,0,0
+196,António Silva,Stoper,21,Portekiz,SL Benfica,38.00 mil. €,21,1,0,1,2,0,0,2
+197,Charles De Ketelaere,On Numara,23,Belçika,Atalanta Bergamo,38.00 mil. €,33,10,0,9,2,0,0,8
+198,Sandro Tonali,Merkez Orta Saha,24,İtalya,Newcastle United,38.00 mil. €,31,3,0,4,4,0,0,8
+199,Boubacar Kamara,Ön Libero,25,Fransa,Aston Villa,38.00 mil. €,20,0,0,0,3,0,0,4
+200,Leon Bailey,Sağ Kanat,27,Jamaika,Aston Villa,38.00 mil. €,27,1,0,3,4,0,0,7
+201,Heung-min Son,Sol Kanat,32,Güney Kore,Tottenham Hotspur,38.00 mil. €,27,8,0,7,0,0,0,4
+202,Santiago Gimenez,Santrafor,23,Meksika,Feyenoord Rotterdam,37.00 mil. €,19,13,0,3,3,0,0,3
+203,Francisco Conceição,Sağ Kanat,22,Portekiz,Juventus,36.00 mil. €,21,3,0,5,3,1,0,7
+204,Carlos Baleba,Ön Libero,21,Kamerun,Brighton & Hove Albion,35.00 mil. €,25,3,0,2,4,1,0,2
+205,Hugo Larsson,Merkez Orta Saha,20,İsveç,Eintracht Frankfurt,35.00 mil. €,27,4,0,1,2,0,0,7
+206,Alan Varela,Ön Libero,23,Arjantin,FC Porto,35.00 mil. €,25,0,0,2,6,0,0,5
+207,Evanilson,Santrafor,25,Brezilya,AFC Bournemouth,35.00 mil. €,21,5,0,0,1,0,0,4
+208,Malo Gusto,Sağ Bek,21,Fransa,Chelsea FC,35.00 mil. €,20,0,0,2,3,0,0,5
+209,Rayan Aït-Nouri,Sol Bek,23,Cezayir,Wolverhampton Wanderers,35.00 mil. €,25,4,0,5,5,1,0,0
+210,Harvey Elliott,Merkez Orta Saha,21,İngiltere,Liverpool FC,35.00 mil. €,11,1,0,1,1,0,0,9
+211,Mateo Retegui,Santrafor,25,İtalya,Atalanta Bergamo,35.00 mil. €,33,18,0,5,2,0,0,8
+212,Cheick Doucouré,Ön Libero,25,Mali,Crystal Palace,35.00 mil. €,14,0,0,0,1,0,0,9
+213,Mason Greenwood,Sağ Kanat,23,İngiltere,Olympique Marsilya,35.00 mil. €,19,12,0,4,1,0,0,0
+214,Maximilian Kilman,Stoper,27,İngiltere,West Ham United,35.00 mil. €,25,0,0,2,3,0,0,0
+215,Tino Livramento,Sağ Bek,22,İngiltere,Newcastle United,35.00 mil. €,27,0,0,0,2,0,0,6
+216,Karim Adeyemi,Sol Kanat,23,Almanya,Borussia Dortmund,35.00 mil. €,12,5,0,5,1,0,0,4
+217,Nico González,Sağ Kanat,26,Arjantin,Juventus,35.00 mil. €,14,3,0,3,0,0,0,5
+218,Khéphren Thuram,Merkez Orta Saha,23,Fransa,Juventus,35.00 mil. €,26,2,0,4,2,0,0,7
+219,Ezri Konsa,Stoper,27,İngiltere,Aston Villa,35.00 mil. €,28,1,0,0,1,0,0,0
+220,Yves Bissouma,Ön Libero,28,Mali,Tottenham Hotspur,35.00 mil. €,32,4,0,2,10,0,0,8
+221,Dávid Hancko,Stoper,27,Slovakya,Feyenoord Rotterdam,35.00 mil. €,32,4,0,6,3,0,0,0
+222,Harvey Barnes,Sol Kanat,27,İngiltere,Newcastle United,35.00 mil. €,25,5,0,1,0,0,0,16
+223,Moussa Diaby,Sağ Kanat,25,Fransa,Al-Ittihad Club,35.00 mil. €,12,1,0,10,2,0,0,2
+224,Nayef Aguerd,Stoper,28,Fas,Real Sociedad,35.00 mil. €,26,0,0,1,3,0,0,1
+225,Rodrigo Bentancur,Ön Libero,27,Uruguay,Tottenham Hotspur,35.00 mil. €,20,2,0,1,7,0,0,5
+226,Mikel Oyarzabal,Santrafor,27,İspanya,Real Sociedad,35.00 mil. €,30,9,0,5,6,0,1,4
+227,Fabián Ruiz,Merkez Orta Saha,28,İspanya,Paris Saint-Germain,35.00 mil. €,32,4,0,4,2,0,0,11
+228,Gianluigi Donnarumma,Kaleci,25,İtalya,Paris Saint-Germain,35.00 mil. €,23,0,0,0,3,0,0,0
+229,Brahim Díaz,Sağ Kanat,25,Fas,Real Madrid,35.00 mil. €,27,10,0,5,0,0,0,13
+230,Brais Méndez,On Numara,28,İspanya,Real Sociedad,35.00 mil. €,25,4,0,3,5,0,0,6
+231,Guglielmo Vicario,Kaleci,28,İtalya,Tottenham Hotspur,35.00 mil. €,17,0,1,0,1,0,0,0
+232,Kingsley Coman,Sol Kanat,28,Fransa,FC Bayern Münih ,35.00 mil. €,23,4,0,2,1,0,0,12
+233,André Onana,Kaleci,28,Kamerun,Manchester United,35.00 mil. €,35,0,0,0,1,0,0,0
+234,Julian Brandt,On Numara,28,Almanya,Borussia Dortmund,35.00 mil. €,23,3,0,6,1,0,0,0
+235,Mike Maignan,Kaleci,29,Fransa,AC Milan,35.00 mil. €,34,0,0,0,2,0,0,0
+236,Nathan Aké,Stoper,29,Hollanda,Manchester City,35.00 mil. €,16,0,0,0,0,0,0,3
+237,Serge Gnabry,Sol Kanat,29,Almanya,FC Bayern Münih ,35.00 mil. €,24,3,0,4,2,0,0,9
+238,Kevin De Bruyne,On Numara,33,Belçika,Manchester City,35.00 mil. €,22,4,0,6,3,0,0,7
+239,Adam Wharton,Ön Libero,20,İngiltere,Crystal Palace,32.00 mil. €,10,0,0,1,0,0,0,1
+240,Georgiy Sudakov,On Numara,22,Ukrayna,Shakhtar Donetsk,32.00 mil. €,29,10,0,4,4,0,0,2
+241,Jean-Clair Todibo,Stoper,25,Fransa,West Ham United,32.00 mil. €,17,0,0,0,1,0,0,7
+242,Jan Paul van Hecke,Stoper,24,Hollanda,Brighton & Hove Albion,32.00 mil. €,24,0,0,1,4,0,0,2
+243,Georginio Rutter,Santrafor,22,Fransa,Brighton & Hove Albion,32.00 mil. €,24,6,0,3,2,0,0,9
+244,Jacob Ramsey,Orta Saha Sol,23,İngiltere,Aston Villa,32.00 mil. €,21,1,0,2,1,0,0,10
+245,Ian Maatsen,Sol Bek,22,Hollanda,Aston Villa,32.00 mil. €,24,0,0,1,3,0,0,16
+246,Mattéo Guendouzi,Merkez Orta Saha,25,Fransa,SS Lazio,32.00 mil. €,30,2,0,4,5,0,0,3
+247,Angelo Stiller,Ön Libero,23,Almanya,VfB Stuttgart,32.00 mil. €,31,2,0,5,3,0,0,4
+248,Pedro Gonçalves,Sol Kanat,26,Portekiz,Sporting Lizbon,32.00 mil. €,13,5,0,6,3,0,0,2
+249,Quinten Timber,Merkez Orta Saha,23,Hollanda,Feyenoord Rotterdam,32.00 mil. €,26,4,0,2,6,0,0,3
+250,Lutsharel Geertruida,Sağ Bek,24,Hollanda,RB Leipzig,32.00 mil. €,29,1,0,1,2,0,0,8
+251,Joey Veerman,Merkez Orta Saha,26,Hollanda,PSV Eindhoven,32.00 mil. €,18,1,0,6,1,0,0,5
+252,Davide Frattesi,Merkez Orta Saha,25,İtalya,Inter Milan,32.00 mil. €,30,6,0,1,2,0,0,16
+253,Emile Smith Rowe,On Numara,24,İngiltere,Fulham FC,32.00 mil. €,23,4,0,2,1,0,0,6
+254,Jerdy Schouten,Ön Libero,28,Hollanda,PSV Eindhoven,32.00 mil. €,18,2,0,0,0,0,0,2
+255,Mason Mount,On Numara,26,İngiltere,Manchester United,32.00 mil. €,12,0,0,0,2,0,0,6
+256,Noussair Mazraoui,Sağ Bek,27,Fas,Manchester United,32.00 mil. €,35,0,0,2,3,0,0,4
+257,Takehiro Tomiyasu,Sağ Bek,26,Japonya,Arsenal,32.00 mil. €,1,0,0,0,0,0,0,1
+258,Lucas Hernández,Sol Bek,28,Fransa,Paris Saint-Germain,32.00 mil. €,6,0,0,0,0,0,0,3
+259,Joachim Andersen,Stoper,28,Danimarka,Fulham FC,32.00 mil. €,19,1,0,1,5,0,1,0
+260,John Stones,Stoper,30,İngiltere,Manchester City,32.00 mil. €,16,3,0,0,2,0,0,5
+261,Geovany Quenda,Sağ Kanat,17,Portekiz,Sporting Lizbon,30.00 mil. €,32,2,0,7,2,0,0,7
+262,Jorrel Hato,Sol Bek,18,Hollanda,Ajax Amsterdam,30.00 mil. €,35,3,0,5,9,0,0,3
+263,Ethan Nwaneri,On Numara,17,İngiltere,Arsenal,30.00 mil. €,27,11,0,1,2,0,0,16
+264,Lucas Beraldo,Stoper,21,Brezilya,Paris Saint-Germain,30.00 mil. €,13,1,0,0,5,0,0,2
+265,Eliesse Ben Seghir,Sol Kanat,19,Fas,AS Monaco,30.00 mil. €,31,9,0,5,2,0,0,5
+266,Mathys Tel,Sol Kanat,19,Fransa,FC Bayern Münih ,30.00 mil. €,15,1,0,1,0,0,0,11
+267,Simon Adingra,Sol Kanat,23,Fildişi Sahili,Brighton & Hove Albion,30.00 mil. €,22,6,0,2,0,0,0,9
+268,Bilal El Khannouss,On Numara,20,Fas,Leicester City,30.00 mil. €,25,2,0,4,1,0,0,9
+269,Cristhian Mosquera,Stoper,20,İspanya,Valencia CF,30.00 mil. €,24,0,0,0,4,0,0,1
+270,Odilon Kossounou,Stoper,24,Fildişi Sahili,Atalanta Bergamo,30.00 mil. €,18,0,0,2,2,0,0,8
+271,Marc Casadó,Ön Libero,21,İspanya,FC Barcelona,30.00 mil. €,27,0,0,6,3,1,0,3
+272,Rayan Cherki,On Numara,21,Fransa,Olympique Lyon,30.00 mil. €,24,6,0,9,5,0,0,8
+273,Maximilian Beier,Santrafor,22,Almanya,Borussia Dortmund,30.00 mil. €,27,5,0,3,2,0,0,12
+274,Youssouf Fofana,Ön Libero,26,Fransa,AC Milan,30.00 mil. €,32,1,0,6,6,0,0,4
+275,Yéremy Pino,Sağ Kanat,22,İspanya,Villarreal CF,30.00 mil. €,19,1,0,6,6,0,0,7
+276,Kang-in Lee,Sağ Kanat,23,Güney Kore,Paris Saint-Germain,30.00 mil. €,27,6,0,3,1,0,0,11
+277,Mykhaylo Mudryk,Sol Kanat,24,Ukrayna,Chelsea FC,30.00 mil. €,20,4,0,6,1,0,0,6
+278,Isak Hien,Stoper,26,İsveç,Atalanta Bergamo,30.00 mil. €,31,0,0,1,8,0,0,3
+279,Randal Kolo Muani,Santrafor,26,Fransa,Paris Saint-Germain,30.00 mil. €,19,5,0,2,1,0,0,12
+280,Wesley Fofana,Stoper,24,Fransa,Chelsea FC,30.00 mil. €,12,0,0,0,6,0,0,0
+281,Brian Brobbey,Santrafor,22,Hollanda,Ajax Amsterdam,30.00 mil. €,32,4,0,8,5,0,0,12
+282,Reece James,Sağ Bek,25,İngiltere,Chelsea FC,30.00 mil. €,6,1,0,1,0,0,0,2
+283,Malik Tillman,On Numara,22,Amerika Birleşik Devletleri,PSV Eindhoven,30.00 mil. €,31,11,0,4,3,0,0,6
+284,Lucas Chevalier,Kaleci,23,Fransa,LOSC Lille,30.00 mil. €,28,0,0,0,0,0,0,0
+285,João Félix,Forvet Arkası,25,Portekiz,Chelsea FC,30.00 mil. €,23,8,0,2,4,0,0,13
+286,Yann Bisseck,Stoper,24,Almanya,Inter Milan,30.00 mil. €,21,1,0,2,3,0,0,5
+287,Mats Wieffer,Ön Libero,25,Hollanda,Brighton & Hove Albion,30.00 mil. €,18,1,0,2,3,0,0,12
+288,Edson Álvarez,Ön Libero,27,Meksika,West Ham United,30.00 mil. €,24,0,0,0,6,2,0,5
+289,Jadon Sancho,Sol Kanat,24,İngiltere,Chelsea FC,30.00 mil. €,18,2,0,6,1,0,0,6
+290,Axel Disasi,Stoper,26,Fransa,Chelsea FC,30.00 mil. €,16,2,1,2,3,0,0,1
+291,Richarlison,Santrafor,27,Brezilya,Tottenham Hotspur,30.00 mil. €,9,2,0,1,1,0,0,8
+292,Ferdi Kadıoğlu,Sol Bek,25,Türkiye,Brighton & Hove Albion,30.00 mil. €,15,3,0,0,2,0,0,4
+293,Moise Kean,Santrafor,24,İtalya,ACF Fiorentina,30.00 mil. €,29,17,0,2,5,0,0,7
+294,Hiroki Ito,Stoper,25,Japonya,FC Bayern Münih ,30.00 mil. €,0,0,0,0,0,0,0,0
+295,Pervis Estupiñán,Sol Bek,26,Ekvador,Brighton & Hove Albion,30.00 mil. €,22,0,0,1,4,0,0,5
+296,Artem Dovbyk,Santrafor,27,Ukrayna,AS Roma,30.00 mil. €,30,12,0,3,1,0,0,5
+297,Denis Zakaria,Ön Libero,28,İsviçre,AS Monaco,30.00 mil. €,18,3,0,2,3,0,0,2
+298,Gianluca Scamacca,Santrafor,26,İtalya,Atalanta Bergamo,30.00 mil. €,0,0,0,0,0,0,0,0
+299,Marc Cucurella,Sol Bek,26,İspanya,Chelsea FC,30.00 mil. €,26,2,0,3,6,1,0,3
+300,Aleksandr Golovin,On Numara,28,Rusya,AS Monaco,30.00 mil. €,21,2,0,1,1,0,0,5
+1,Jude Bellingham,On Numara,21,İngiltere,Real Madrid,180.00 mil. €,30,10,0,10,7,0,0,1
+2,Bukayo Saka,Sağ Kanat,23,İngiltere,Arsenal,150.00 mil. €,27,9,0,13,4,0,0,2
+3,Phil Foden,Sağ Kanat,24,İngiltere,Manchester City,140.00 mil. €,27,9,0,4,2,0,0,7
+4,Cole Palmer,On Numara,22,İngiltere,Chelsea FC,130.00 mil. €,25,14,0,6,3,0,0,2
+5,Declan Rice,Merkez Orta Saha,26,İngiltere,Arsenal,110.00 mil. €,32,4,0,6,4,1,0,3
+6,Harry Kane,Santrafor,31,İngiltere,FC Bayern Münih ,90.00 mil. €,28,25,0,10,3,0,0,2
+7,Trent Alexander-Arnold,Sağ Bek,26,İngiltere,Liverpool FC,75.00 mil. €,32,3,0,7,4,0,0,2
+8,Anthony Gordon,Sol Kanat,23,İngiltere,Newcastle United,60.00 mil. €,32,9,0,5,3,0,0,4
+9,James Maddison,On Numara,28,İngiltere,Tottenham Hotspur,60.00 mil. €,30,8,0,5,6,0,0,10
+10,Ollie Watkins,Santrafor,29,İngiltere,Aston Villa,55.00 mil. €,32,11,0,9,0,0,0,7
+11,Ben White,Sağ Bek,27,İngiltere,Arsenal,55.00 mil. €,12,0,0,1,3,0,0,2
+12,Levi Colwill,Stoper,21,İngiltere,Chelsea FC,55.00 mil. €,23,0,0,1,6,0,0,1
+13,Eberechi Eze,On Numara,26,İngiltere,Crystal Palace,55.00 mil. €,25,6,0,6,1,0,0,2
+14,Kobbie Mainoo,Merkez Orta Saha,19,İngiltere,Manchester United,55.00 mil. €,21,0,0,0,7,0,0,4
+15,Marcus Rashford,Sol Kanat,27,İngiltere,Manchester United,55.00 mil. €,24,7,0,3,4,0,0,5
+16,Jamie Gittens,Sol Kanat,20,İngiltere,Borussia Dortmund,50.00 mil. €,27,11,0,5,4,0,0,6
+17,Jarrod Bowen,Sağ Kanat,28,İngiltere,West Ham United,45.00 mil. €,25,7,0,4,0,0,0,4
+18,Marc Guéhi,Stoper,24,İngiltere,Crystal Palace,45.00 mil. €,31,3,2,2,6,0,0,1
+19,Curtis Jones,Merkez Orta Saha,23,İngiltere,Liverpool FC,45.00 mil. €,28,4,0,5,1,0,0,10
+20,Jack Grealish,Sol Kanat,29,İngiltere,Manchester City,45.00 mil. €,24,3,0,4,4,0,0,10
+21,Dominic Solanke,Santrafor,27,İngiltere,Tottenham Hotspur,45.00 mil. €,31,11,1,6,0,0,0,7
+22,Jarrad Branthwaite,Stoper,22,İngiltere,Everton FC,42.00 mil. €,16,0,0,0,3,0,0,2
+23,Noni Madueke,Sağ Kanat,22,İngiltere,Chelsea FC,40.00 mil. €,28,6,0,6,4,0,0,9
+24,Rico Lewis,Sağ Bek,20,İngiltere,Manchester City,40.00 mil. €,32,1,0,4,3,1,0,4
+25,Morgan Gibbs-White,On Numara,24,İngiltere,Nottingham Forest,40.00 mil. €,20,4,0,5,5,1,0,2
+26,Morgan Rogers,On Numara,22,İngiltere,Aston Villa,40.00 mil. €,31,9,0,5,7,0,0,2
+27,Morgan Gibbs-White,On Numara,24,İngiltere,Nottingham Forest,40.00 mil. €,20,4,0,5,5,1,0,2
+28,Ezri Konsa,Stoper,27,İngiltere,Aston Villa,35.00 mil. €,28,1,0,0,1,0,0,0
+29,Harvey Elliott,Merkez Orta Saha,21,İngiltere,Liverpool FC,35.00 mil. €,11,1,0,1,1,0,0,9
+30,Harvey Barnes,Sol Kanat,27,İngiltere,Newcastle United,35.00 mil. €,25,5,0,1,0,0,0,16
+31,Tino Livramento,Sağ Bek,22,İngiltere,Newcastle United,35.00 mil. €,27,0,0,0,2,0,0,6
+32,Mason Greenwood,Sağ Kanat,23,İngiltere,Olympique Marsilya,35.00 mil. €,19,12,0,4,1,0,0,0
+33,Maximilian Kilman,Stoper,27,İngiltere,West Ham United,35.00 mil. €,25,0,0,2,3,0,0,0
+34,Mason Mount,On Numara,26,İngiltere,Manchester United,32.00 mil. €,12,0,0,0,2,0,0,6
+35,Emile Smith Rowe,On Numara,24,İngiltere,Fulham FC,32.00 mil. €,23,4,0,2,1,0,0,6
+36,Adam Wharton,Ön Libero,20,İngiltere,Crystal Palace,32.00 mil. €,10,0,0,1,0,0,0,1
+37,John Stones,Stoper,30,İngiltere,Manchester City,32.00 mil. €,16,3,0,0,2,0,0,5
+38,Jacob Ramsey,Orta Saha Sol,23,İngiltere,Aston Villa,32.00 mil. €,21,1,0,2,1,0,0,10
+39,Ethan Nwaneri,On Numara,17,İngiltere,Arsenal,30.00 mil. €,27,11,0,1,2,0,0,16
+40,Jadon Sancho,Sol Kanat,24,İngiltere,Chelsea FC,30.00 mil. €,18,2,0,6,1,0,0,6
+41,Reece James,Sağ Bek,25,İngiltere,Chelsea FC,30.00 mil. €,6,1,0,1,0,0,0,2
+42,Joe Willock,Merkez Orta Saha,25,İngiltere,Newcastle United,28.00 mil. €,24,1,0,1,2,0,0,14
+43,Kiernan Dewsbury-Hall,Merkez Orta Saha,26,İngiltere,Chelsea FC,28.00 mil. €,15,2,0,1,1,0,0,6
+44,Ivan Toney,Santrafor,28,İngiltere,Al-Ahli SFC,28.00 mil. €,19,9,0,3,1,0,0,3
+45,Joe Gomez,Stoper,27,İngiltere,Liverpool FC,28.00 mil. €,16,0,0,0,2,0,0,6
+46,Angel Gomes,On Numara,24,İngiltere,LOSC Lille,25.00 mil. €,20,1,0,2,3,1,0,6
+47,Liam Delap,Santrafor,21,İngiltere,Ipswich Town,25.00 mil. €,25,8,0,2,11,0,0,3
+48,Lewis Hall,Sol Bek,20,İngiltere,Newcastle United,25.00 mil. €,31,0,0,6,4,0,0,6
+49,Taylor Harwood-Bellis,Stoper,22,İngiltere,Southampton FC,25.00 mil. €,27,4,0,0,7,0,0,2
+50,Archie Gray,Sağ Bek,18,İngiltere,Tottenham Hotspur,25.00 mil. €,29,0,1,0,2,0,0,8
+51,Sean Longstaff,Merkez Orta Saha,27,İngiltere,Newcastle United,25.00 mil. €,22,0,0,0,4,0,0,11
+52,Leif Davis,Sol Bek,25,İngiltere,Ipswich Town,25.00 mil. €,22,1,0,3,5,0,0,0
+53,Dwight McNeil,On Numara,25,İngiltere,Everton FC,25.00 mil. €,15,4,0,3,1,0,0,0
+54,Tyrick Mitchell,Sol Bek,25,İngiltere,Crystal Palace,25.00 mil. €,26,0,0,3,2,0,0,0
+55,Eddie Nketiah,Santrafor,25,İngiltere,Crystal Palace,25.00 mil. €,20,2,0,1,4,0,0,11
+56,Callum Hudson-Odoi,Sol Kanat,24,İngiltere,Nottingham Forest,24.00 mil. €,22,3,0,2,1,0,0,4
+57,Jack Hinshelwood,Merkez Orta Saha,19,İngiltere,Brighton & Hove Albion,24.00 mil. €,13,1,0,0,3,0,0,1
+58,Elliot Anderson,Merkez Orta Saha,22,İngiltere,Nottingham Forest,24.00 mil. €,23,1,0,5,5,0,0,5
+59,Tyler Dibling,Sağ Kanat,18,İngiltere,Southampton FC,22.00 mil. €,29,5,0,2,7,0,0,9
+60,Jarell Quansah,Stoper,21,İngiltere,Liverpool FC,22.00 mil. €,12,0,1,0,3,0,0,4
+61,Raheem Sterling,Sağ Kanat,30,İngiltere,Arsenal,22.00 mil. €,14,1,0,2,1,0,0,8
+62,Omari Hutchinson,On Numara,21,İngiltere,Ipswich Town,22.00 mil. €,21,2,0,1,4,0,0,1
+63,Fikayo Tomori,Stoper,27,İngiltere,AC Milan,22.00 mil. €,20,0,0,0,5,0,0,3
+64,Aaron Wan-Bissaka,Sağ Bek,27,İngiltere,West Ham United,22.00 mil. €,23,2,0,1,2,0,0,1
+65,Lewis Miley,Merkez Orta Saha,18,İngiltere,Newcastle United,22.00 mil. €,9,1,0,0,0,0,0,5
+66,Dominic Calvert-Lewin,Santrafor,27,İngiltere,Everton FC,22.00 mil. €,21,3,0,1,2,0,0,3
+67,Jacob Greaves,Stoper,24,İngiltere,Ipswich Town,20.00 mil. €,12,0,0,0,2,0,0,0
+68,Kalvin Phillips,Ön Libero,29,İngiltere,Ipswich Town,20.00 mil. €,14,1,0,0,1,1,0,3
+69,Rico Henry,Sol Bek,27,İngiltere,Brentford FC,20.00 mil. €,2,0,0,0,0,0,0,1
+70,Tammy Abraham,Santrafor,27,İngiltere,AC Milan,20.00 mil. €,24,6,0,5,0,0,0,14
+71,Jordan Pickford,Kaleci,30,İngiltere,Everton FC,20.00 mil. €,27,0,0,0,6,0,0,0
+72,Ben Chilwell,Sol Bek,28,İngiltere,Chelsea FC,20.00 mil. €,1,0,0,0,0,0,0,1
+73,James Garner,Ön Libero,23,İngiltere,Everton FC,20.00 mil. €,5,0,0,0,1,0,0,2
+74,Luke Shaw,Sol Bek,29,İngiltere,Manchester United,20.00 mil. €,3,0,0,0,0,0,0,3
+75,Marcus Tavernier,Orta Saha Sol,25,İngiltere,AFC Bournemouth,20.00 mil. €,16,1,0,4,2,0,0,2
+76,Ruben Loftus-Cheek,Merkez Orta Saha,28,İngiltere,AC Milan,20.00 mil. €,21,0,0,1,1,0,0,10
+77,Alex Scott,Merkez Orta Saha,21,İngiltere,AFC Bournemouth,20.00 mil. €,10,0,0,0,1,0,0,6
+78,Tosin Adarabioyo,Stoper,27,İngiltere,Chelsea FC,20.00 mil. €,18,3,0,0,1,0,0,3
+79,Keane Lewis-Potter,Sol Kanat,23,İngiltere,Brentford FC,20.00 mil. €,27,2,0,3,4,0,0,4
+80,Aaron Ramsdale,Kaleci,26,İngiltere,Southampton FC,20.00 mil. €,17,0,0,0,1,0,0,0
+81,Tammy Abraham,Santrafor,27,İngiltere,AC Milan,20.00 mil. €,24,6,0,5,0,0,0,14
+82,Reiss Nelson,Sağ Kanat,25,İngiltere,Fulham FC,18.00 mil. €,13,2,0,1,1,0,0,7
+83,James Trafford,Kaleci,22,İngiltere,Burnley FC,18.00 mil. €,26,0,0,0,5,0,0,0
+84,Lloyd Kelly,Stoper,26,İngiltere,Newcastle United,18.00 mil. €,13,0,0,1,2,0,0,6
+85,Jobe Bellingham,Merkez Orta Saha,19,İngiltere,Sunderland,18.00 mil. €,27,4,0,3,5,0,1,0
+86,James Ward-Prowse,Merkez Orta Saha,30,İngiltere,Nottingham Forest,16.00 mil. €,12,0,0,1,0,1,0,5
+87,Jack Harrison,Sağ Kanat,28,İngiltere,Everton FC,16.00 mil. €,21,0,0,0,1,0,0,9
+88,Adam Armstrong,Santrafor,27,İngiltere,Southampton FC,16.00 mil. €,22,3,0,2,6,0,0,6
+89,Max Aarons,Sağ Bek,25,İngiltere,Valencia CF,16.00 mil. €,4,0,0,0,0,0,0,2
+90,Callum Doyle,Stoper,21,İngiltere,Norwich City,15.00 mil. €,30,1,0,5,8,0,0,2
+91,Carney Chukwuemeka,Merkez Orta Saha,21,İngiltere,Chelsea FC,15.00 mil. €,5,0,0,0,0,0,0,4
+92,Jaden Philogene,Sol Kanat,22,İngiltere,Ipswich Town,15.00 mil. €,18,0,0,0,2,1,0,13
+93,Jack Clarke,Sol Kanat,24,İngiltere,Ipswich Town,15.00 mil. €,22,2,0,4,1,0,0,13
+94,Harry Maguire,Stoper,31,İngiltere,Manchester United,15.00 mil. €,21,1,0,0,6,0,0,6
+95,Flynn Downes,Ön Libero,25,İngiltere,Southampton FC,15.00 mil. €,20,1,0,0,10,0,0,2
+96,Marcus Edwards,Sağ Kanat,26,İngiltere,Sporting Lizbon,15.00 mil. €,10,3,0,0,0,0,0,6
+97,James Justin,Sağ Bek,26,İngiltere,Leicester City,15.00 mil. €,23,4,0,1,2,0,0,0
+98,Dean Henderson,Kaleci,27,İngiltere,Crystal Palace,15.00 mil. €,26,0,0,1,3,0,0,0
+99,Nick Pope,Kaleci,32,İngiltere,Newcastle United,14.00 mil. €,17,0,0,0,3,0,0,0
+100,Jacob Murphy,Sağ Kanat,29,İngiltere,Newcastle United,14.00 mil. €,21,3,0,7,2,0,0,4
+101,James McAtee,On Numara,22,İngiltere,Manchester City,14.00 mil. €,16,6,0,1,1,0,0,9
+102,Cameron Archer,Santrafor,23,İngiltere,Southampton FC,14.00 mil. €,24,5,0,0,0,0,0,11
+103,Lewis Cook,Merkez Orta Saha,27,İngiltere,AFC Bournemouth,14.00 mil. €,22,1,0,3,4,0,0,3
+104,Oliver Skipp,Ön Libero,24,İngiltere,Leicester City,14.00 mil. €,18,0,0,0,4,0,0,9
+105,Trevoh Chalobah,Stoper,25,İngiltere,Chelsea FC,13.00 mil. €,14,3,0,0,1,0,0,0
+106,Ryan Yates,Merkez Orta Saha,27,İngiltere,Nottingham Forest,13.00 mil. €,22,2,0,0,6,0,0,7
+107,Josh Brownhill,Merkez Orta Saha,29,İngiltere,Burnley FC,13.00 mil. €,27,9,0,3,3,0,0,1
+108,Chris Rigg,Merkez Orta Saha,17,İngiltere,Sunderland,12.00 mil. €,30,4,0,1,8,0,0,4
+109,Jonathan Rowe,Sol Kanat,21,İngiltere,Olympique Marsilya,12.00 mil. €,18,2,0,3,3,0,0,15
+110,Adam Webster,Stoper,30,İngiltere,Brighton & Hove Albion,12.00 mil. €,8,1,0,1,1,0,0,2
+111,Anthony Patterson,Kaleci,24,İngiltere,Sunderland,12.00 mil. €,23,0,0,0,1,0,0,0
+112,Harry Winks,Ön Libero,28,İngiltere,Leicester City,12.00 mil. €,19,1,0,3,3,0,0,2
+113,Aaron Ramsey,On Numara,21,İngiltere,Burnley FC,12.00 mil. €,0,0,0,0,0,0,0,0
+114,Callum Wilson,Santrafor,32,İngiltere,Newcastle United,11.00 mil. €,4,0,0,0,1,0,0,4
+115,Stephy Mavididi,Sol Kanat,26,İngiltere,Leicester City,11.00 mil. €,24,5,0,1,2,0,0,8
+116,Samuel Iling-Junior,Sol Kanat,21,İngiltere,Bologna FC,11.00 mil. €,16,1,0,1,0,0,0,10
+117,Harrison Reed,Merkez Orta Saha,29,İngiltere,Fulham FC,11.00 mil. €,11,0,0,0,3,0,0,9
+118,Morgan Whittaker,Sağ Kanat,24,İngiltere,Plymouth Argyle,11.00 mil. €,21,4,0,1,3,0,0,1
+119,Kyle Walker,Sağ Bek,34,İngiltere,Manchester City,10.00 mil. €,21,0,0,0,3,0,0,7
+120,Tommy Doyle,Merkez Orta Saha,23,İngiltere,Wolverhampton Wanderers,10.00 mil. €,19,1,0,1,2,0,0,14
+121,Mikey Moore,Sol Kanat,17,İngiltere,Tottenham Hotspur,10.00 mil. €,18,2,0,4,1,0,0,8
+122,Elijah Adebayo,Santrafor,27,İngiltere,Luton Town,10.00 mil. €,29,5,0,0,1,0,0,5
+123,Lewis Dunk,Stoper,33,İngiltere,Brighton & Hove Albion,10.00 mil. €,17,0,0,0,4,0,0,2
+124,Tim Iroegbunam,Merkez Orta Saha,21,İngiltere,Everton FC,10.00 mil. €,8,0,0,1,3,0,0,3
+125,James Tarkowski,Stoper,32,İngiltere,Everton FC,10.00 mil. €,21,0,0,0,4,0,0,0
+126,Alfie Doughty,Orta Saha Sol,25,İngiltere,Luton Town,10.00 mil. €,14,0,0,4,5,0,0,0
+127,Solly March,Sağ Kanat,30,İngiltere,Brighton & Hove Albion,10.00 mil. €,4,1,0,0,1,0,0,3
+128,Teden Mengi,Stoper,22,İngiltere,Luton Town,10.00 mil. €,17,1,0,0,2,0,0,3
+129,Myles Lewis-Skelly,Sol Bek,18,İngiltere,Arsenal,10.00 mil. €,24,0,0,2,5,0,0,9
+130,Ainsley Maitland-Niles,Sağ Bek,27,İngiltere,Olympique Lyon,10.00 mil. €,25,1,0,4,3,0,0,7
+131,Josh Dasilva,Merkez Orta Saha,26,İngiltere,Brentford FC,10.00 mil. €,0,0,0,0,0,0,0,0
+132,Jay Stansfield,Santrafor,22,İngiltere,Birmingham City,9.00 mil. €,23,15,0,1,2,0,0,3
+133,Ben Johnson,Sağ Bek,24,İngiltere,Ipswich Town,9.00 mil. €,15,0,0,1,2,0,0,6
+134,Will Hughes,Merkez Orta Saha,29,İngiltere,Crystal Palace,9.00 mil. €,23,0,0,3,8,0,0,6
+135,Ryan Sessegnon,Sol Bek,24,İngiltere,Fulham FC,9.00 mil. €,5,0,0,1,0,0,0,2
+136,Kieran Trippier,Sağ Bek,34,İngiltere,Newcastle United,8.00 mil. €,17,0,0,0,1,0,0,9
+137,Sam Johnstone,Kaleci,31,İngiltere,Wolverhampton Wanderers,8.00 mil. €,8,0,0,0,0,0,0,0
+138,Ben Godfrey,Stoper,27,İngiltere,Ipswich Town,8.00 mil. €,7,0,0,0,0,0,0,5
+139,Samuel Edozie,Sol Kanat,21,İngiltere,RSC Anderlecht,8.00 mil. €,24,3,0,3,2,0,0,10
+140,Conor Chaplin,Forvet Arkası,27,İngiltere,Ipswich Town,8.00 mil. €,16,2,0,1,1,0,0,8
+141,Ross Barkley,Merkez Orta Saha,31,İngiltere,Aston Villa,8.00 mil. €,24,4,0,2,4,0,0,18
+142,Tyler Morton,Ön Libero,22,İngiltere,Liverpool FC,8.00 mil. €,11,3,0,2,2,0,0,1
+143,Eric Dier,Stoper,31,İngiltere,FC Bayern Münih ,8.00 mil. €,11,0,0,0,0,0,0,7
+144,Chuba Akpom,Santrafor,29,İngiltere,Ajax Amsterdam,8.00 mil. €,30,8,0,1,2,0,0,15
+145,Djed Spence,Sağ Bek,24,İngiltere,Tottenham Hotspur,8.00 mil. €,14,1,0,2,1,1,0,6
+146,Bobby Clark,Merkez Orta Saha,19,İngiltere,Red Bull Salzburg,8.00 mil. €,19,1,0,2,1,0,0,8
+147,Carlton Morris,Santrafor,29,İngiltere,Luton Town,8.00 mil. €,26,7,0,2,6,0,0,3
+148,Matt Targett,Sol Bek,29,İngiltere,Newcastle United,8.00 mil. €,4,0,0,2,0,0,0,1
+149,Tyrone Mings,Stoper,31,İngiltere,Aston Villa,8.00 mil. €,9,0,0,0,3,0,0,1
+150,Hayden Hackney,Ön Libero,22,İngiltere,Middlesbrough,8.00 mil. €,25,3,0,1,3,1,0,2
+151,Archie Brown,Sol Bek,22,İngiltere,KAA Gent,8.00 mil. €,34,2,0,6,7,0,0,6
+152,Ben Sheaf,Ön Libero,26,İngiltere,Coventry City,7.00 mil. €,21,0,0,2,4,0,0,2
+153,Michael Cooper,Kaleci,25,İngiltere,Sheffield United,7.00 mil. €,25,0,0,0,2,0,0,0
+154,Harrison Burrows,Sol Bek,23,İngiltere,Sheffield United,7.00 mil. €,26,4,0,1,2,0,0,2
+155,Dan Burn,Stoper,32,İngiltere,Newcastle United,7.00 mil. €,26,0,1,0,6,0,0,2
+156,Danny Ings,Santrafor,32,İngiltere,West Ham United,7.00 mil. €,14,1,0,2,0,0,0,12
+157,Josh Eccles,Merkez Orta Saha,24,İngiltere,Coventry City,7.00 mil. €,29,3,0,3,6,0,0,6
+158,Ellis Simms,Santrafor,24,İngiltere,Coventry City,6.50 mil. €,26,3,0,1,0,0,0,15
+159,Luke Thomas,Sol Bek,23,İngiltere,Leicester City,6.00 mil. €,5,0,0,0,0,0,0,0
+160,Michael Keane,Stoper,32,İngiltere,Everton FC,6.00 mil. €,13,2,0,1,4,0,0,1
+161,Jamaal Lascelles,Stoper,31,İngiltere,Newcastle United,6.00 mil. €,0,0,0,0,0,0,0,0
+162,Matt Grimes,Ön Libero,29,İngiltere,Swansea City,6.00 mil. €,30,2,0,1,5,0,0,0
+163,Dennis Cirkin,Sol Bek,22,İngiltere,Sunderland,6.00 mil. €,23,2,0,2,4,0,0,3
+164,Jack Rudoni,Merkez Orta Saha,23,İngiltere,Coventry City,6.00 mil. €,30,3,0,6,3,0,0,4
+165,Bashir Humphreys,Stoper,21,İngiltere,Burnley FC,5.50 mil. €,25,0,0,2,1,1,0,6
+166,Alfie Gilchrist,Stoper,21,İngiltere,Sheffield United,5.50 mil. €,28,0,0,2,5,0,0,3
+167,Jaidon Anthony,Sol Kanat,25,İngiltere,Burnley FC,5.50 mil. €,24,3,0,2,3,0,0,1
+168,Dan Neil,Merkez Orta Saha,23,İngiltere,Sunderland,5.50 mil. €,27,1,0,3,1,1,0,0
+169,Joe Worrall,Stoper,28,İngiltere,Burnley FC,5.50 mil. €,6,0,0,1,1,0,0,1
+170,Jayden Bogle,Sağ Bek,24,İngiltere,Leeds United,5.50 mil. €,26,3,0,2,7,0,0,1
+171,Sam Surridge,Santrafor,26,İngiltere,Nashville SC,5.00 mil. €,0,0,0,0,0,0,0,0
+172,Tyrhys Dolan,Sağ Kanat,23,İngiltere,Blackburn Rovers,5.00 mil. €,27,2,0,3,6,0,0,6
+173,Danny Welbeck,Santrafor,34,İngiltere,Brighton & Hove Albion,5.00 mil. €,19,6,0,2,1,0,0,5
+174,Harry Clarke,Sağ Bek,23,İngiltere,Ipswich Town,5.00 mil. €,8,0,0,0,1,1,0,4
+175,George Hirst,Santrafor,25,İngiltere,Ipswich Town,5.00 mil. €,11,1,0,1,1,0,0,10
+176,Danny Namaso,Santrafor,24,İngiltere,FC Porto,5.00 mil. €,22,3,0,0,3,0,0,9
+177,James Beadle,Kaleci,20,İngiltere,Sheffield Wednesday,5.00 mil. €,30,0,0,0,1,0,0,0
+178,Harry Toffolo,Sol Bek,29,İngiltere,Nottingham Forest,5.00 mil. €,4,0,0,0,0,0,0,3
+179,Lewis O'Brien,Merkez Orta Saha,26,İngiltere,Nottingham Forest,5.00 mil. €,0,0,0,0,0,0,0,0
+180,Charlie Cresswell,Stoper,22,İngiltere,Toulouse FC,5.00 mil. €,22,1,1,1,3,0,0,3
+181,Romain Esse,On Numara,19,İngiltere,Crystal Palace,5.00 mil. €,32,6,0,1,4,0,0,4
+182,Luke Cundle,Merkez Orta Saha,22,İngiltere,Wolverhampton Wanderers,5.00 mil. €,1,0,0,0,0,0,0,0
+183,Ben Wilmot,Stoper,25,İngiltere,Stoke City,4.80 mil. €,28,1,1,0,6,0,0,4
+184,Tom Davies,Merkez Orta Saha,26,İngiltere,Sheffield United,4.50 mil. €,10,1,0,1,3,0,0,4
+185,Dael Fry,Stoper,27,İngiltere,Middlesbrough,4.50 mil. €,10,0,0,0,0,0,0,3
+186,Ryan Giles,Sol Bek,24,İngiltere,Hull City,4.50 mil. €,18,0,0,0,1,0,0,5
+187,Romaine Mundle,Sol Kanat,21,İngiltere,Sunderland,4.50 mil. €,16,4,0,2,1,0,0,3
+188,Brooke Norton-Cuffy,Sağ Bek,21,İngiltere,Genoa CFC,4.50 mil. €,6,0,0,0,0,0,0,5
+189,Sam Greenwood,On Numara,22,İngiltere,Preston North End,4.50 mil. €,28,7,0,2,5,0,1,6
+190,Ephron Mason-Clark,Sol Kanat,25,İngiltere,Coventry City,4.50 mil. €,22,4,0,4,1,0,0,11
+191,Alfie Jones,Stoper,27,İngiltere,Hull City,4.00 mil. €,26,0,0,0,3,0,0,1
+192,Oladapo Afolayan,Sağ Kanat,27,İngiltere,FC St. Pauli,4.00 mil. €,20,2,0,2,2,0,0,6
+193,Nathan Redmond,Sağ Kanat,30,İngiltere,Burnley FC,4.00 mil. €,0,0,0,0,0,0,0,0
+194,Reuell Walters,Sağ Bek,20,İngiltere,Luton Town,4.00 mil. €,14,0,0,0,3,0,0,3
+195,Jesse Lingard,On Numara,32,İngiltere,FC Seoul,4.00 mil. €,0,0,0,0,0,0,0,0
+196,Dujon Sterling,Sağ Bek,25,İngiltere,Glasgow Rangers,4.00 mil. €,27,0,0,1,5,0,0,15
+197,Josh Wilson-Esbrand,Sol Bek,22,İngiltere,Manchester City,4.00 mil. €,5,1,0,2,0,0,0,0
+198,Harry Pickering,Sol Bek,26,İngiltere,Blackburn Rovers,4.00 mil. €,16,0,0,2,2,0,0,2
+199,Rob Holding,Stoper,29,İngiltere,Crystal Palace,4.00 mil. €,5,0,0,0,1,0,0,0
+200,Keinan Davis,Santrafor,26,İngiltere,Udinese Calcio,4.00 mil. €,16,3,0,1,3,0,0,10
+201,Alfie Jones,Stoper,27,İngiltere,Hull City,4.00 mil. €,26,0,0,0,3,0,0,1
+202,Tyrese Campbell,Santrafor,25,İngiltere,Sheffield United,4.00 mil. €,16,6,0,1,1,0,0,8
+203,Josh Wilson-Esbrand,Sol Bek,22,İngiltere,Manchester City,4.00 mil. €,5,1,0,2,0,0,0,0
+204,Liam Kitching,Stoper,25,İngiltere,Coventry City,3.80 mil. €,11,1,0,1,2,0,0,1
+205,Ronnie Edwards,Stoper,21,İngiltere,Queens Park Rangers,3.80 mil. €,6,0,1,0,0,0,0,2
+206,Nathan Wood,Stoper,22,İngiltere,Southampton FC,3.80 mil. €,14,0,0,0,3,0,0,4
+207,Karlan Grant,Santrafor,27,İngiltere,West Bromwich,3.80 mil. €,27,6,0,2,2,0,0,3
+208,Jordan Storey,Stoper,27,İngiltere,Preston North End,3.80 mil. €,31,1,0,1,5,0,0,2
+209,Ryan Wintle,Ön Libero,27,İngiltere,FC Millwall,3.80 mil. €,16,1,0,0,3,0,0,13
+210,John Lundstram,Ön Libero,30,İngiltere,Trabzonspor,3.60 mil. €,24,0,0,0,2,0,0,8
+211,Jordan Henderson,Merkez Orta Saha,34,İngiltere,Ajax Amsterdam,3.50 mil. €,30,0,0,5,5,0,0,6
+212,Charlie Hughes,Stoper,21,İngiltere,Hull City,3.50 mil. €,14,0,0,1,7,0,0,2
+213,Todd Cantwell,On Numara,26,İngiltere,Blackburn Rovers,3.50 mil. €,22,1,0,3,6,0,0,4
+214,Tom Holmes,Stoper,24,İngiltere,Luton Town,3.50 mil. €,19,1,0,1,1,1,0,4
+215,Perry Ng,Sağ Bek,28,İngiltere,Cardiff City,3.50 mil. €,21,1,0,0,7,0,0,1
+216,Nat Phillips,Stoper,27,İngiltere,Derby County,3.50 mil. €,20,0,0,0,2,0,0,8
+217,Scott Twine,On Numara,25,İngiltere,Bristol City,3.50 mil. €,18,5,0,3,3,0,0,4
+218,Joe Gelhardt,Santrafor,22,İngiltere,Hull City,3.50 mil. €,4,0,0,0,1,0,0,3
+219,Connor Goldson,Stoper,32,İngiltere,Aris Limassol,3.50 mil. €,17,0,0,0,3,0,0,0
+220,Patrick Bamford,Santrafor,31,İngiltere,Leeds United,3.50 mil. €,11,0,0,0,0,0,0,10
+221,Max Dean,Santrafor,20,İngiltere,KAA Gent,3.50 mil. €,34,17,0,2,7,0,0,17
+222,Dele Alli,On Numara,28,İngiltere,Como 1907,3.50 mil. €,0,0,0,0,0,0,0,0
+223,Patrick Roberts,Sağ Kanat,27,İngiltere,Sunderland,3.50 mil. €,26,2,0,5,7,0,0,4
+224,Freddie Woodman,Kaleci,27,İngiltere,Preston North End,3.50 mil. €,31,0,0,0,4,0,1,0
+225,Lewis Travis,Ön Libero,27,İngiltere,Blackburn Rovers,3.50 mil. €,21,2,0,1,7,0,0,1
+226,Charlie Hughes,Stoper,21,İngiltere,Hull City,3.50 mil. €,14,0,0,1,7,0,0,2
+227,Scott Twine,On Numara,25,İngiltere,Bristol City,3.50 mil. €,18,5,0,3,3,0,0,4
+228,Sam Field,Ön Libero,26,İngiltere,Queens Park Rangers,3.20 mil. €,28,4,0,0,9,0,0,1
+229,Josh Tymon,Sol Bek,25,İngiltere,Swansea City,3.20 mil. €,29,0,1,3,4,0,0,3
+230,Billy Mitchell,Merkez Orta Saha,23,İngiltere,FC Millwall,3.20 mil. €,4,0,0,1,1,0,0,3
+231,Micah Hamilton,Sol Kanat,21,İngiltere,Middlesbrough,3.20 mil. €,16,0,0,0,0,0,0,12
+232,James Tavernier,Sağ Bek,33,İngiltere,Glasgow Rangers,3.00 mil. €,31,3,0,7,5,0,0,4
+233,Jason Steele,Kaleci,34,İngiltere,Brighton & Hove Albion,3.00 mil. €,5,0,0,0,0,0,0,0
+234,Toby Collyer,Ön Libero,21,İngiltere,Manchester United,3.00 mil. €,11,0,0,0,0,0,0,5
+235,Tom Fellows,Orta Saha Sağ,21,İngiltere,West Bromwich,3.00 mil. €,29,3,0,10,3,0,0,5
+236,Jack Butland,Kaleci,31,İngiltere,Glasgow Rangers,3.00 mil. €,29,0,0,0,3,0,0,0
+237,Conor Coady,Stoper,31,İngiltere,Leicester City,3.00 mil. €,13,1,0,0,1,0,0,2
+238,Darnell Furlong,Sağ Bek,29,İngiltere,West Bromwich,3.00 mil. €,27,0,1,2,6,0,0,0
+239,Shola Shoretire,Sağ Kanat,20,İngiltere,PAOK Selanik,3.00 mil. €,18,3,0,0,2,0,0,13
+240,Rhian Brewster,Santrafor,24,İngiltere,Sheffield United,3.00 mil. €,24,1,0,1,1,0,0,14
+241,John Swift,Merkez Orta Saha,29,İngiltere,West Bromwich,3.00 mil. €,25,0,0,0,4,0,0,12
+242,Will Lankshear,Santrafor,19,İngiltere,Tottenham Hotspur U21,3.00 mil. €,10,3,0,0,1,1,0,4
+243,Jesurun Rak-Sakyi,Sağ Kanat,22,İngiltere,Sheffield United,3.00 mil. €,24,4,0,2,1,0,0,7
+244,Cody Drameh,Sağ Bek,23,İngiltere,Hull City,3.00 mil. €,22,1,0,0,1,0,0,7
+245,Jack Elliott,Stoper,29,İngiltere,Chicago Fire FC,3.00 mil. €,0,0,0,0,0,0,0,0
+246,Carl Rushworth,Kaleci,23,İngiltere,Hull City,3.00 mil. €,2,0,0,0,0,0,0,0
+247,Jerry Yates,Santrafor,28,İngiltere,Derby County,2.80 mil. €,24,6,0,2,0,0,0,0
+248,Ben Whiteman,Merkez Orta Saha,28,İngiltere,Preston North End,2.80 mil. €,27,0,0,2,10,0,0,5
+249,Callum O'Hare,On Numara,26,İngiltere,Sheffield United,2.80 mil. €,27,2,0,5,2,0,0,0
+250,Max Bird,Ön Libero,24,İngiltere,Bristol City,2.80 mil. €,27,1,0,5,0,0,0,3
+251,Charlie Taylor,Sol Bek,31,İngiltere,Southampton FC,2.80 mil. €,10,0,0,2,1,0,0,5
+252,Jed Wallace,Sağ Kanat,30,İngiltere,West Bromwich,2.80 mil. €,22,0,0,0,1,0,0,19
+253,Calum Chambers,Stoper,29,İngiltere,Cardiff City,2.80 mil. €,25,1,1,1,5,0,0,0
+254,Jack Stacey,Sağ Bek,28,İngiltere,Norwich City,2.80 mil. €,28,0,0,5,3,0,0,13
+255,Rob Dickie,Stoper,28,İngiltere,Bristol City,2.80 mil. €,16,1,0,0,3,0,1,1
+256,Alfie Devine,On Numara,20,İngiltere,KVC Westerlo,2.80 mil. €,17,4,0,0,2,0,0,3
+257,Ryan Kent,Sol Kanat,28,İngiltere,Kulüpsüz,2.70 mil. €,1,0,0,0,0,0,0,0
+258,Tino Anjorin,On Numara,23,İngiltere,Empoli FC,2.50 mil. €,15,0,0,3,2,0,0,3
+259,Andre Brooks,Merkez Orta Saha,21,İngiltere,Sheffield United,2.50 mil. €,20,2,0,2,3,0,0,12
+260,Omar Richards,Sol Bek,26,İngiltere,Rio Ave FC,2.50 mil. €,18,0,0,1,2,0,0,1
+261,Hayden Carter,Stoper,25,İngiltere,Blackburn Rovers,2.50 mil. €,13,0,0,1,4,0,0,0
+262,Bobby Thomas,Stoper,23,İngiltere,Coventry City,2.50 mil. €,27,2,1,1,4,0,0,0
+263,George Tanner,Sağ Bek,25,İngiltere,Bristol City,2.50 mil. €,19,1,0,0,1,0,0,3
+264,Cameron Pring,Sol Bek,26,İngiltere,Bristol City,2.50 mil. €,21,0,0,0,4,0,0,3
+265,Lewis Dobbin,Sol Kanat,22,İngiltere,Norwich City,2.50 mil. €,21,0,0,0,0,0,0,17
+266,Callum Brittain,Sağ Bek,26,İngiltere,Blackburn Rovers,2.50 mil. €,21,1,0,3,3,0,0,3
+267,Dion Sanderson,Stoper,25,İngiltere,Blackburn Rovers,2.50 mil. €,8,0,0,1,1,1,0,2
+268,Scott Wharton,Stoper,27,İngiltere,Blackburn Rovers,2.50 mil. €,0,0,0,0,0,0,0,0
+269,Jake Cooper,Stoper,29,İngiltere,FC Millwall,2.50 mil. €,18,2,1,1,3,0,0,0
+270,Bali Mumba,Sağ Bek,23,İngiltere,Plymouth Argyle,2.50 mil. €,28,0,0,2,3,0,0,2
+271,Ben Davies,Stoper,29,İngiltere,Birmingham City,2.50 mil. €,25,0,0,1,3,0,0,6
+272,Jonjoe Kenny,Sağ Bek,27,İngiltere,Hertha Berlin,2.50 mil. €,21,1,0,6,4,0,0,0
+273,Max Lowe,Sol Bek,27,İngiltere,Sheffield Wednesday,2.50 mil. €,26,0,0,0,1,0,0,3
+274,Matt Clarke,Stoper,28,İngiltere,Middlesbrough,2.50 mil. €,17,2,0,0,0,0,0,2
+275,Harry Darling,Stoper,25,İngiltere,Swansea City,2.50 mil. €,27,2,0,3,4,0,0,0
+276,James Bree,Sağ Bek,27,İngiltere,Southampton FC,2.50 mil. €,14,2,0,0,1,0,0,3
+277,Alex Oxlade-Chamberlain,Merkez Orta Saha,31,İngiltere,Beşiktaş JK,2.30 mil. €,5,1,0,0,0,0,0,4
+278,Liam Gibbs,Merkez Orta Saha,22,İngiltere,Norwich City,2.20 mil. €,9,0,0,0,0,0,0,7
+279,Adam Randell,Ön Libero,24,İngiltere,Plymouth Argyle,2.20 mil. €,26,1,0,1,3,0,0,1
+280,Ethan Laird,Sağ Bek,23,İngiltere,Birmingham City,2.20 mil. €,26,1,0,2,5,0,0,8
+281,Kaine Kesler-Hayden,Sağ Bek,22,İngiltere,Preston North End,2.20 mil. €,30,0,0,3,5,0,0,6
+282,Luis Binks,Stoper,23,İngiltere,Coventry City,2.20 mil. €,18,0,0,0,6,0,0,0
+283,John Buckley,Merkez Orta Saha,25,İngiltere,Blackburn Rovers,2.20 mil. €,16,0,0,2,3,0,0,11
+284,Ashley Phillips,Stoper,19,İngiltere,Stoke City,2.20 mil. €,23,1,0,0,4,0,0,0
+285,Taylor Gardner-Hickman,Merkez Orta Saha,23,İngiltere,Birmingham City,2.20 mil. €,26,0,0,0,5,0,0,7
+286,Christian Burgess,Stoper,33,İngiltere,Union Saint-Gilloise,2.20 mil. €,23,0,1,1,9,0,0,0
+287,Dan Barlaser,Ön Libero,28,İngiltere,Middlesbrough,2.20 mil. €,20,1,0,1,2,0,0,7
+288,Ross Sykes,Stoper,25,İngiltere,Union Saint-Gilloise,2.20 mil. €,17,3,0,1,5,0,0,3
+289,Brandon Williams,Sol Bek,24,İngiltere,Kulüpsüz,2.00 mil. €,0,0,0,0,0,0,0,0
+290,Mason Burstow,Santrafor,21,İngiltere,Hull City,2.00 mil. €,20,2,0,1,1,0,0,13
+291,Jahmai Simpson-Pusey,Stoper,19,İngiltere,Manchester City U21,2.00 mil. €,19,0,0,1,2,0,0,3
+292,Amario Cozier-Duberry,Sağ Kanat,19,İngiltere,Blackburn Rovers,2.00 mil. €,17,1,0,0,0,0,0,11
+293,Rob Atkinson,Stoper,26,İngiltere,FC Portsmouth,2.00 mil. €,3,0,0,0,0,0,0,1
+294,Chris Smalling,Stoper,35,İngiltere,Al-Fayha FC,2.00 mil. €,14,0,1,0,1,0,1,0
+295,Craig Dawson,Stoper,34,İngiltere,Wolverhampton Wanderers,2.00 mil. €,16,0,2,0,2,0,0,5
+296,Noel Buck,Merkez Orta Saha,19,İngiltere,Southampton FC U21,2.00 mil. €,6,0,0,0,0,0,0,0
+297,Ryan Longman,Sol Kanat,24,İngiltere,Hull City,2.00 mil. €,9,1,0,0,0,0,0,3
+298,James Hill,Stoper,23,İngiltere,AFC Bournemouth,2.00 mil. €,7,0,0,1,0,0,0,2
+299,Daniel Bentley,Kaleci,31,İngiltere,Wolverhampton Wanderers,2.00 mil. €,1,0,0,0,0,0,0,0
+300,Jack Stephens,Stoper,30,İngiltere,Southampton FC,2.00 mil. €,10,0,0,0,2,0,2,0
+301,Christian McFarlane,Sol Bek,17,İngiltere,New York City FC,2.00 mil. €,3,0,0,0,0,0,0,1
+302,Ryan Andrews,Sağ Bek,20,İngiltere,Watford FC,2.00 mil. €,26,3,0,3,2,0,0,8
+303,Kortney Hause,Stoper,29,İngiltere,Aston Villa,2.00 mil. €,0,0,0,0,0,0,0,0
+304,Amario Cozier-Duberry,Sağ Kanat,19,İngiltere,Blackburn Rovers,2.00 mil. €,17,1,0,0,0,0,0,11
+305,Michael Golding,Merkez Orta Saha,18,İngiltere,Leicester City U21,2.00 mil. €,9,1,0,1,1,0,0,1
+306,Brandon Williams,Sol Bek,24,İngiltere,Kulüpsüz,2.00 mil. €,0,0,0,0,0,0,0,0
+307,Luke Woolfenden,Stoper,26,İngiltere,Ipswich Town,2.00 mil. €,10,0,0,0,2,0,0,1
+308,Mason Burstow,Santrafor,21,İngiltere,Hull City,2.00 mil. €,20,2,0,1,1,0,0,13
+309,Noel Buck,Merkez Orta Saha,19,İngiltere,Southampton FC U21,2.00 mil. €,6,0,0,0,0,0,0,0
+310,James Hill,Stoper,23,İngiltere,AFC Bournemouth,2.00 mil. €,7,0,0,1,0,0,0,2
+311,Chris Willock,Sol Kanat,26,İngiltere,Cardiff City,1.80 mil. €,23,1,0,1,0,0,0,11
+312,Derry Murkin,Sol Bek,25,İngiltere,Schalke 04,1.80 mil. €,20,0,0,3,3,0,0,0
+313,Lee Buchanan,Sol Bek,23,İngiltere,Birmingham City,1.80 mil. €,4,1,0,0,1,0,0,0
+314,Ben Pearson,Ön Libero,30,İngiltere,Stoke City,1.80 mil. €,0,0,0,0,0,0,0,0
+315,Dane Scarlett,Santrafor,20,İngiltere,Oxford United,1.80 mil. €,26,6,0,1,3,0,0,14
+316,Josh Laurent,Merkez Orta Saha,29,İngiltere,Burnley FC,1.80 mil. €,28,0,0,1,5,0,0,12
+317,Lewis Gibson,Stoper,24,İngiltere,Preston North End,1.80 mil. €,21,1,0,1,2,0,0,1
+318,Japhet Tanganga,Stoper,25,İngiltere,FC Millwall,1.80 mil. €,24,2,0,0,5,0,0,0
+319,Louie Barry,Sol Kanat,21,İngiltere,Aston Villa U21,1.80 mil. €,24,16,0,3,2,0,0,2
+320,Darko Gyabi,Merkez Orta Saha,20,İngiltere,Plymouth Argyle,1.80 mil. €,31,2,0,1,7,0,0,5
+321,Reece Burke,Stoper,28,İngiltere,Luton Town,1.80 mil. €,10,0,0,0,4,0,0,0
+322,Sam Gallagher,Santrafor,29,İngiltere,Stoke City,1.60 mil. €,9,1,0,1,2,0,0,6
+323,Lewie Coyle,Sağ Bek,29,İngiltere,Hull City,1.60 mil. €,29,1,0,1,5,0,0,3
+324,Louie Sibley,Merkez Orta Saha,23,İngiltere,Oxford United,1.60 mil. €,13,1,0,1,4,0,0,9
+325,Alex Cochrane,Sol Bek,24,İngiltere,Birmingham City,1.50 mil. €,29,0,0,2,5,0,0,2
+326,Josh Coburn,Santrafor,22,İngiltere,FC Millwall,1.50 mil. €,11,3,0,1,0,0,0,4
+327,Matty Longstaff,Merkez Orta Saha,24,İngiltere,Toronto FC,1.50 mil. €,0,0,0,0,0,0,0,0
+328,Nathaniel Clyne,Sağ Bek,33,İngiltere,Crystal Palace,1.50 mil. €,14,0,0,1,1,0,0,8
+329,Lino Sousa,Sol Bek,20,İngiltere,Bristol Rovers,1.50 mil. €,15,0,0,1,1,0,0,4
+330,Nathan Trott,Kaleci,26,İngiltere,FC Kopenhag,1.50 mil. €,27,0,0,0,0,0,0,0
+331,Dru Yearwood,Merkez Orta Saha,24,İngiltere,Kulüpsüz,1.50 mil. €,0,0,0,0,0,0,0,0
+332,Joe Rankin-Costello,Sağ Bek,25,İngiltere,Blackburn Rovers,1.50 mil. €,21,2,0,2,4,0,0,10
+333,Ollie Tanner,Sağ Kanat,22,İngiltere,Cardiff City,1.50 mil. €,25,2,0,3,1,0,0,10
+334,Joe Whitworth,Kaleci,20,İngiltere,Exeter City,1.50 mil. €,29,0,0,1,1,0,0,0
+335,Omari Kellyman,On Numara,19,İngiltere,Chelsea FC U21,1.50 mil. €,2,0,0,0,1,0,0,1
+336,Ben Chrisene,Sol Bek,21,İngiltere,Norwich City,1.50 mil. €,24,1,0,0,2,0,0,10
+337,Luke Chambers,Stoper,20,İngiltere,Wigan Athletic,1.50 mil. €,13,1,0,1,0,0,0,1
+338,CJ Egan-Riley,Stoper,22,İngiltere,Burnley FC,1.50 mil. €,23,1,0,0,6,0,0,1
+339,Matt Crooks,On Numara,30,İngiltere,Hull City,1.50 mil. €,1,0,0,0,0,0,0,1
+340,Lewis Baker,Merkez Orta Saha,29,İngiltere,Stoke City,1.50 mil. €,19,2,0,1,3,0,0,8
+341,Alex Cochrane,Sol Bek,24,İngiltere,Birmingham City,1.50 mil. €,29,0,0,2,5,0,0,2
+342,Jamie Donley,Forvet Arkası,20,İngiltere,Leyton Orient,1.50 mil. €,26,4,0,3,5,0,0,7
+343,Jeremy Ngakia,Sağ Bek,24,İngiltere,Watford FC,1.50 mil. €,10,1,0,0,3,0,0,1
+344,Brad Potts,Sağ Bek,30,İngiltere,Preston North End,1.50 mil. €,24,3,0,3,4,0,0,5
+345,Harvey Vale,On Numara,21,İngiltere,Chelsea FC U21,1.50 mil. €,12,5,0,5,1,0,0,2
+346,Luke O'Nien,Stoper,30,İngiltere,Sunderland,1.50 mil. €,27,2,2,1,4,0,0,1
+347,George Earthy,On Numara,20,İngiltere,Bristol City,1.40 mil. €,22,0,0,0,1,0,0,17
+348,Jonjo Shelvey,Merkez Orta Saha,32,İngiltere,Kulüpsüz,1.30 mil. €,6,0,0,0,1,0,0,4
+349,Jordan Houghton,Ön Libero,29,İngiltere,Plymouth Argyle,1.30 mil. €,14,0,0,0,2,0,0,9
+350,Joe Lolley,Sağ Kanat,32,İngiltere,Sydney FC,1.30 mil. €,16,9,0,4,0,0,0,0
+351,Frankie Kent,Stoper,29,İngiltere,Heart of Midlothian FC,1.20 mil. €,20,2,0,0,3,0,0,0
+352,George Hall,Merkez Orta Saha,20,İngiltere,FC Walsall,1.20 mil. €,12,2,0,1,1,0,0,5
+353,Kion Etete,Santrafor,23,İngiltere,Cardiff City,1.20 mil. €,1,0,0,0,0,0,0,0
+354,Fraser Forster,Kaleci,36,İngiltere,Tottenham Hotspur,1.20 mil. €,13,0,0,0,0,0,0,0
+355,Josh Bowler,Sağ Kanat,25,İngiltere,Preston North End,1.20 mil. €,13,0,0,0,0,0,0,4
+356,Andros Townsend,Sağ Kanat,33,İngiltere,Antalyaspor,1.20 mil. €,18,1,0,1,1,0,0,10
+357,Sam McCallum,Sol Bek,24,İngiltere,Sheffield United,1.20 mil. €,21,1,0,0,0,0,0,14
+358,Sam Tickle,Kaleci,22,İngiltere,Wigan Athletic,1.20 mil. €,28,0,1,0,2,0,0,0
+359,Marc Bola,Sol Bek,27,İngiltere,Samsunspor,1.20 mil. €,19,0,0,3,3,0,0,1
+360,Oliver Arblaster,Merkez Orta Saha,21,İngiltere,Sheffield United,1.20 mil. €,12,2,0,1,3,0,0,1
+361,Jake Bidwell,Sol Bek,31,İngiltere,Coventry City,1.20 mil. €,18,1,0,0,3,0,0,4
+362,Malcolm Ebiowei,Sağ Kanat,21,İngiltere,Crystal Palace,1.20 mil. €,7,0,0,1,1,0,0,5
+363,Leighton Clarkson,On Numara,23,İngiltere,Aberdeen FC,1.20 mil. €,26,5,0,2,3,0,0,9
+364,Jake Clarke-Salter,Stoper,27,İngiltere,Queens Park Rangers,1.20 mil. €,14,0,0,0,3,0,0,4
+365,Conor Townsend,Sol Bek,31,İngiltere,Ipswich Town,1.20 mil. €,3,0,0,1,0,0,0,1
+366,Aynsley Pears,Kaleci,26,İngiltere,Blackburn Rovers,1.20 mil. €,29,0,0,0,3,0,0,0
+367,Jamie Cumming,Kaleci,25,İngiltere,Oxford United,1.20 mil. €,27,0,0,0,1,0,0,0
+368,Kaide Gordon,Sağ Kanat,20,İngiltere,Liverpool FC U21,1.20 mil. €,17,2,0,1,3,0,0,11
+369,Jonathan Panzo,Stoper,24,İngiltere,Rio Ave FC,1.20 mil. €,8,0,0,0,3,0,0,1
+370,Souleymane Sidibé,Merkez Orta Saha,17,İngiltere,Stoke City,1.20 mil. €,22,0,0,3,4,0,0,10
+371,Jack Whatmough,Stoper,28,İngiltere,Preston North End,1.20 mil. €,17,0,1,1,3,0,0,3
+372,Alex Palmer,Kaleci,28,İngiltere,West Bromwich,1.20 mil. €,27,0,0,0,1,0,0,0
+373,Ryan Ledson,Merkez Orta Saha,27,İngiltere,Preston North End,1.20 mil. €,15,3,0,1,3,0,0,7
+374,Brad Collins,Kaleci,27,İngiltere,Coventry City,1.20 mil. €,8,0,0,0,0,0,0,0
+375,Arthur Okonkwo,Kaleci,23,İngiltere,Wrexham AFC,1.20 mil. €,17,0,0,0,0,0,0,0
+376,Joe Williams,Merkez Orta Saha,28,İngiltere,Bristol City,1.20 mil. €,13,0,0,2,5,0,0,2
+377,Sam Bell,Sol Kanat,22,İngiltere,Bristol City,1.20 mil. €,10,0,0,0,0,0,0,9
+378,James Milner,Merkez Orta Saha,39,İngiltere,Brighton & Hove Albion,1.00 mil. €,3,0,0,0,1,0,0,0
+379,Karamoko Dembélé,On Numara,21,İngiltere,Queens Park Rangers,1.00 mil. €,12,1,0,3,2,0,0,2
+380,Harry Leonard,Santrafor,21,İngiltere,Blackburn Rovers,1.00 mil. €,11,4,0,0,0,0,0,7
+381,Henry Lawrence,Sağ Bek,23,İngiltere,Standard Liège,1.00 mil. €,19,0,0,0,2,0,1,2
+382,Sonny Perkins,Sağ Kanat,20,İngiltere,Leyton Orient,1.00 mil. €,28,4,0,6,1,0,0,11
+383,Josh Knight,Stoper,27,İngiltere,Hannover 96,1.00 mil. €,13,0,0,0,3,0,0,4
+384,Adam Smith,Sağ Bek,33,İngiltere,AFC Bournemouth,1.00 mil. €,18,0,0,0,4,0,0,5
+385,Colby Bishop,Santrafor,28,İngiltere,FC Portsmouth,1.00 mil. €,11,3,0,2,0,0,0,1
+386,Divin Mubama,Santrafor,20,İngiltere,Manchester City U21,1.00 mil. €,5,3,0,1,0,0,0,3
+387,Josh Griffiths,Kaleci,23,İngiltere,Bristol Rovers,1.00 mil. €,30,0,0,0,1,0,0,0
+388,Andre Dozzell,Merkez Orta Saha,25,İngiltere,FC Portsmouth,1.00 mil. €,21,0,0,0,4,0,0,3
+389,Ryan Allsop,Kaleci,32,İngiltere,Birmingham City,1.00 mil. €,22,0,0,0,4,0,0,0
+390,Nathan Byrne,Sağ Bek,32,İngiltere,Charlotte FC,1.00 mil. €,0,0,0,0,0,0,0,0
+391,Aji Alese,Stoper,24,İngiltere,Sunderland,1.00 mil. €,13,0,0,0,2,0,0,4
+392,Nathaniel Chalobah,Ön Libero,30,İngiltere,Sheffield Wednesday,1.00 mil. €,9,0,0,0,1,0,0,5
+393,Ben Gibson,Stoper,32,İngiltere,Stoke City,1.00 mil. €,21,3,2,0,5,0,0,1
+394,Archie Collins,Merkez Orta Saha,25,İngiltere,Peterborough United,1.00 mil. €,32,1,0,3,7,0,0,2
+395,Finley Burns,Stoper,21,İngiltere,Hull City,1.00 mil. €,9,0,0,0,1,0,0,5
+396,Joe Bryan,Sol Bek,31,İngiltere,FC Millwall,1.00 mil. €,26,0,0,2,6,0,0,2
+397,Joe Ralls,Merkez Orta Saha,31,İngiltere,Cardiff City,1.00 mil. €,16,0,0,1,5,0,0,5
+398,Jamie Vardy,Santrafor,38,İngiltere,Leicester City,1.00 mil. €,21,7,0,3,4,0,0,0
+399,Alex Pritchard,On Numara,31,İngiltere,Sivasspor,1.00 mil. €,15,0,0,4,2,0,0,2
+400,David Kasumu,Merkez Orta Saha,25,İngiltere,Huddersfield Town,1.00 mil. €,22,4,0,1,7,0,0,4
