@@ -51,6 +51,8 @@ Toplanan veri, ham haliyle makine öğrenmesi modelleri için uygun değildir. B
 4. **Label Encoding:** Metinsel veriler (ör. uyruk, pozisyon) sayısal değerlere dönüştürüldü.  
 5. **Özelliklerin Ölçeklendirilmesi:** Sayısal sütunlar (ör. yaş, gol sayısı) `StandardScaler` ile ölçeklendirildi.
 ![resim](https://github.com/user-attachments/assets/6b210e36-ad73-4582-8523-b9954d73457a)
+![resim](https://github.com/user-attachments/assets/930a6717-145c-4537-bc6a-613901861d18)
+
 
 ---
 
