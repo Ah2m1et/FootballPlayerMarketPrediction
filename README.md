@@ -56,73 +56,150 @@ Toplanan veri, ham haliyle makine öğrenmesi modelleri için uygun değildir. B
 
 ---
 
-## Model Eğitimi ve Değerlendirmesi
+# **Model Eğitimi ve Değerlendirmesi**
 
-Bu projede dört farklı model ile piyasa değeri tahmin edilmeye çalışılmıştır:  
-
-- **Linear Regression (Doğrusal Regresyon)**  
-- **Decision Tree Regressor (Karar Ağacı)**  
-- **Random Forest Regressor**  
-- **SVR (Support Vector Regressor)**  
-
-### Kullanılan Değerlendirme Metrikleri  
-
-Her bir model, aşağıdaki metriklere göre performans açısından değerlendirilmiştir:  
-
-- **MSE (Mean Squared Error):** Tahmin değerlerinin gerçek değerlerden sapmalarının karesinin ortalaması.  
-- **RMSE (Root Mean Squared Error):** MSE'nin karekökü.  
-- **MAE (Mean Absolute Error):** Tahmin değerlerinin gerçek değerlerden ortalama mutlak farkı.  
-- **R2 Score:** Modelin açıklayıcılık oranı (1'e ne kadar yakınsa, o kadar iyi).  
-
-Çıktı:  
-- **Model Sonuçları:**
-
-| **Model**             | **MSE**  | **RMSE** | **MAE** | **R2 Score (%)** |
-|-----------------------|----------|----------|---------|------------------|
-| **Linear Regression** | 269.44   | 16.41    | 10.66   | 34.56           |
-| **Decision Tree**     | 178.84   | 13.37    | 4.41    | 56.56           |
-| **Random Forest**     | 91.58    | 9.57     | 3.96    | 77.76           |
-| **XGBoost**           | 80.86    | 8.99     | 4.12    | 80.36           |
-| **SVR**               | 400.14   | 20.00    | 9.48    | 2.81            |
+Bu projede piyasa değerini tahmin etmek amacıyla dört farklı makine öğrenimi modeli eğitilmiş ve değerlendirilmiştir. Bu modellerin amacı, belirli bir veri kümesi üzerinde tahminlerin doğruluğunu artırmak ve her bir modelin avantajlarını ve dezavantajlarını analiz etmektir.
 
 ---
 
-### Analiz ve Çıktı Yorumları:
+## **Kullanılan Modeller ve Genel Tanımları**
 
-1. **Linear Regression**: 
-   - Basit bir model olup doğruluk oranı %34.56 seviyesindedir.
-   - Karmaşık ilişkileri modellemede yetersiz kalmıştır.
-   - Daha düşük performans sergilemiştir.
+1. **Linear Regression (Doğrusal Regresyon)**  
+   - En temel regresyon modellerinden biridir.
+   - Veri setindeki bağımsız değişkenler ile bağımlı değişken (Piyasa Değeri) arasında doğrusal bir ilişki varsayar.
+   - Basit ve hızlı çalışır, ancak karmaşık ilişkiler veya çok boyutlu problemler için yetersiz kalabilir.
 
-2. **Decision Tree**: 
-   - Daha düşük MSE ve RMSE değerleriyle Linear Regression'a kıyasla daha iyi performans göstermiştir.
-   - Doğruluk oranı %56.56 ile orta seviyede bir başarı yakalamıştır.
+2. **Decision Tree Regressor (Karar Ağacı)**  
+   - Karar ağaçları, veriyi dallara ayırarak tahmin yapar.
+   - Özellikle verideki karmaşık yapıları öğrenmede ve doğrusal olmayan ilişkilerde daha başarılıdır.
+   - Ağaç yapısı nedeniyle veri gürültüsünden etkilenebilir ve overfitting riski taşır.
 
-3. **Random Forest**: 
-   - En düşük MSE (91.58) ve en yüksek R2 skoru (%77.76) ile oldukça başarılı bir modeldir.
-   - Overfitting'in önüne geçmesi ve istikrarlı sonuçlar sunmasıyla öne çıkar.
+3. **Random Forest Regressor**  
+   - Çok sayıda karar ağacının bir araya getirilmesiyle oluşturulan bir topluluk öğrenme yöntemidir.
+   - Rastgele alt kümeler üzerinde çalışarak overfitting'i önler ve genellikle daha istikrarlı sonuçlar verir.
+   - Büyük veri setlerinde iyi performans gösterir.
 
-4. **XGBoost**: 
-   - En iyi performansı gösteren modeldir.
-   - MSE (80.86) ve RMSE (8.99) değerleri oldukça düşük olup, doğruluk oranı %80.36 seviyesindedir.
-   - Random Forest'a kıyasla daha iyi sonuçlar vermiştir.
+4. **XGBoost (Extreme Gradient Boosting)**  
+   - Güçlü bir gradyan artış yöntemi uygulayan topluluk öğrenme modeli.
+   - Özellikle doğruluğu artırmak ve hız kazanmak için optimize edilmiştir.
+   - Eksik verilerle iyi başa çıkabilir ve karmaşık veri setlerinde yüksek performans gösterir.
 
-5. **SVR (Support Vector Regressor)**:
-   - Bu model, en düşük performansı göstermiştir.
-   - MSE oldukça yüksek (400.14) ve doğruluk oranı sadece %2.81 seviyesindedir.
-   - Model, bu veri seti için uygun bir seçim değildir.
+5. **SVR (Support Vector Regressor)**  
+   - Support Vector Machine'in (SVM) regresyon versiyonudur.
+   - Veriler arasındaki sınırları belirlemek için hiper düzlemler kullanır.
+   - Küçük veri kümelerinde etkili olabilir, ancak büyük ve karmaşık veri setlerinde yeterli performans göstermeyebilir.
 
 ---
 
-### Özet:
-- **En Başarılı Model**: XGBoost (%80.36 doğruluk oranı ile).
-- **Alternatif Model**: Random Forest (%77.76 doğruluk oranı ile, XGBoost'a çok yakın performans göstermiştir).
-- **Zayıf Performanslı Modeller**: SVR ve Linear Regression, diğer modellere kıyasla düşük başarı göstermiştir.
-### Yorumlar:
-- **Linear Regression**: Basit bir model olup doğruluk oranı %45.07 seviyesinde kalmıştır. Karmaşık ilişkilerde yetersiz kalabilir.  
-- **Decision Tree**: Daha düşük MSE ve yüksek R2 skoru (%69.31) ile Linear Regression'a göre daha iyi bir performans göstermiştir.  
-- **Random Forest**: En düşük MSE (293.9502) ve en yüksek R2 skoru (%72.70) ile en başarılı modeldir.  
-- **SVR**: Bu model en düşük performansı göstermiştir; MSE oldukça yüksek ve doğruluk oranı %21.05 seviyesindedir. Model, bu veri seti için iyi bir seçim olmayabilir.
+## **Kullanılan Değerlendirme Metrikleri**
+
+Her bir modelin performansı şu metriklerle değerlendirilmiştir:
+
+1. **MSE (Mean Squared Error)**  
+   - Tahmin değerleri ile gerçek değerler arasındaki farkın karesinin ortalamasıdır.  
+   - Düşük bir MSE, modelin hatalarının daha küçük olduğunu gösterir.  
+
+2. **RMSE (Root Mean Squared Error)**  
+   - MSE'nin kareköküdür ve verideki hataların gerçek birimlerde ifade edilmesini sağlar.  
+   - Daha düşük bir RMSE, modelin tahminlerinin daha doğru olduğunu gösterir.  
+
+3. **MAE (Mean Absolute Error)**  
+   - Tahmin değerleri ile gerçek değerler arasındaki mutlak farkların ortalamasıdır.  
+   - Hataların büyüklüğü hakkında doğrudan bir fikir verir ve yorumlaması kolaydır.  
+
+4. **R² Score (R Kare)**  
+   - Modelin açıklayıcılık oranını ifade eder ve hedef değişkenin varyansının ne kadarının açıklandığını ölçer.  
+   - 1’e yakın bir R² skoru, modelin yüksek doğrulukla çalıştığını gösterir.
+
+---
+
+## **Model Performansı**
+
+| **Model**             | **MSE** | **RMSE** | **MAE** | **R² Score (%)** |
+|------------------------|---------|----------|---------|------------------|
+| **Linear Regression**  | 269.44  | 16.41    | 10.66   | 34.56           |
+| **Decision Tree**      | 178.84  | 13.37    | 4.41    | 56.56           |
+| **Random Forest**      | 91.58   | 9.57     | 3.96    | 77.76           |
+| **XGBoost**            | 80.86   | 8.99     | 4.12    | 80.36           |
+| **SVR**                | 400.14  | 20.00    | 9.48    | 2.81            |
+
+---
+
+## **Model Analizi ve Yorumları**
+
+### **1. Linear Regression (Doğrusal Regresyon)**
+- **Performans Özeti:**  
+  - MSE: 269.44, RMSE: 16.41, MAE: 10.66, R²: %34.56.  
+  - Doğruluk oranı diğer modellere kıyasla oldukça düşüktür (%34.56).  
+- **Neden Kötü Performans Gösterdi?**  
+  - Model, yalnızca doğrusal ilişkileri öğrenebildiği için karmaşık ilişkileri açıklamada yetersiz kalmıştır.  
+  - Veri setinde doğrusal olmayan ilişkiler bulunuyorsa, Linear Regression bu ilişkileri öğrenemez.
+
+---
+
+### **2. Decision Tree (Karar Ağacı)**
+- **Performans Özeti:**  
+  - MSE: 178.84, RMSE: 13.37, MAE: 4.41, R²: %56.56.  
+  - Linear Regression’a göre çok daha iyi sonuçlar vermiştir.  
+- **Avantajları:**  
+  - Karmaşık veri yapıları ve doğrusal olmayan ilişkilerde iyi performans göstermiştir.  
+  - Mutlak hataların (MAE: 4.41) düşük olması, modelin tahminlerde daha tutarlı olduğunu gösterir.  
+- **Neden Daha Az Başarılı?**  
+  - Karar ağaçları, aşırı derinleştiğinde overfitting yapabilir. Bu da modelin test verisi üzerinde daha az genel sonuçlar vermesine neden olur.
+
+---
+
+### **3. Random Forest (Rastgele Orman)**
+- **Performans Özeti:**  
+  - MSE: 91.58, RMSE: 9.57, MAE: 3.96, R²: %77.76.  
+  - Doğruluk oranı oldukça yüksek (%77.76).  
+- **Neden Daha İyi Performans Gösterdi?**  
+  - Karar ağacındaki overfitting riskini, birden fazla ağacın ortalamasını alarak azaltmıştır.  
+  - İstikrarlı ve genelleştirilmiş sonuçlar sunar.  
+- **Dezavantajları:**  
+  - Eğitim süresi, tek bir karar ağacına kıyasla daha uzun olabilir.  
+
+---
+
+### **4. XGBoost**
+- **Performans Özeti:**  
+  - MSE: 80.86, RMSE: 8.99, MAE: 4.12, R²: %80.36.  
+  - Tüm modeller arasında en iyi doğruluk oranını göstermiştir (%80.36).  
+- **Avantajları:**  
+  - Verideki karmaşık ilişkileri öğrenebilme kapasitesi oldukça yüksektir.  
+  - Boosting algoritması sayesinde hataları aşamalı olarak düzeltir.  
+  - Eksik verilerle başa çıkma konusunda güçlüdür.  
+- **Neden En Başarılı?**  
+  - Optimizasyon teknikleri ve veri setindeki varyansları iyi öğrenmesi nedeniyle en düşük MSE ve en yüksek R² skoru elde edilmiştir.  
+
+---
+
+### **5. SVR (Support Vector Regressor)**
+- **Performans Özeti:**  
+  - MSE: 400.14, RMSE: 20.00, MAE: 9.48, R²: %2.81.  
+  - Model, tahmin edilebilirlik açısından başarısız olmuştur.  
+- **Neden Başarısız?**  
+  - Model, veri setindeki karmaşık yapıyı yeterince öğrenememiştir.  
+  - SVR genellikle küçük ve iyi dengelenmiş veri setlerinde daha etkili çalışır. Ancak bu veri setinde yeterli performansı gösterememiştir.  
+
+---
+
+## **Genel Sonuçlar ve Tavsiyeler**
+
+1. **En Başarılı Model:**  
+   - **XGBoost (%80.36 R² ile)**, piyasa değeri tahmininde en iyi performansı göstermiştir.
+   - Karmaşık ilişkileri öğrenme kapasitesi ve düşük hata oranlarıyla veri setine en uygun modeldir.
+
+2. **Alternatif Model:**  
+   - **Random Forest (%77.76 R² ile)**, XGBoost’a yakın performans göstermiştir. Eğitim süresi daha kısa olan projelerde alternatif olarak tercih edilebilir.
+
+3. **Düşük Performans Gösteren Modeller:**  
+   - **Linear Regression** ve **SVR**, veri setindeki karmaşık ilişkileri modelleyemediği için düşük doğruluk oranları göstermiştir.  
+
+4. **Genel Öneri:**  
+   - Karmaşık veri setleri üzerinde çalışırken XGBoost veya Random Forest gibi topluluk öğrenme yöntemlerinin tercih edilmesi önerilir.  
+   - Daha basit modeller (Linear Regression gibi) yalnızca doğrusal ilişkilere sahip veri setlerinde uygun bir seçenek olabilir.  
+
 
 
 ## Proje Yapısı
@@ -132,7 +209,6 @@ Her bir model, aşağıdaki metriklere göre performans açısından değerlendi
 ├── README.md                # Proje dokümantasyonu
 ├── player_table_multiple_leagues.csv  # Toplanan veri
 ├── footballPlayerPrediction.ipynb  # Kod
-├── player_table_multiple_leagues.csv # Veri seti
 ├── requirements.txt         # Python bağımlılıkları
 └── ...
 ```
