@@ -225,19 +225,8 @@ Her bir modelin performansı şu metriklerle değerlendirilmiştir:
 pip install -r requirements.txt
 ```
 
-### Veri Çekme (Opsiyonel)  
-
-Scraping için:  
-```
-scrape_transfermarkt_data()
-```
-
-Eğer scraping yapmak istemezseniz, `player_table_multiple_leagues.csv` dosyasını kullanabilirsiniz.
-
----
 
 ## Lisans  
 
 Bu proje MIT lisansı altındadır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.  
 
---- 
