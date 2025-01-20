@@ -8,7 +8,7 @@ Bu projede, Transfermarkt web sitesinden futbolcu verilerini kazıma (scraping) 
 
 ## YouTube Videosu
 
-[![Kullanım Videosu](https://youtu.be/QhJdXJRRKgo)](https://youtu.be/QhJdXJRRKgo)
+[![Kullanım Videosu](https://youtu.be/4-prbWJUHPc)](https://youtu.be/4-prbWJUHPc)
 
 Bu videoda projenin işleyişine dair detaylı bir rehber bulabilirsiniz. Veri çekimi, temizleme, model eğitimi ve sonuçların görselleştirilmesi gibi adımları öğrenmek için videoyu izleyebilirsiniz.
 
